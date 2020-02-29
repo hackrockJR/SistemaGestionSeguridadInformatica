@@ -1,0 +1,7 @@
+Cifrar carpetas con 7zip
+
+1- comprimir carpeta
+2- opcion 7zip: añadir archivo
+3- en el panel escribir contraseña 
+4- cifrar nombres de los archivos. 
+5- acpetar
