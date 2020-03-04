@@ -1,0 +1,90 @@
+-----------------------------------------------------------------
+		Seguridad en profundidad
+-----------------------------------------------------------------
+
+
+1- Router
+	Ataques de diccionario.
+	Ataques de fuerza bruta 
+
+*Logeo con credenciales con un servidor radius. 
+
+Hardening: https://benchmarks.cisecurity.org/
+https://learn.cisecurity.org/cis-benchmark-downloads?hsCtaTracking=41ef8b02-d0e5-4acb-b542-67c919c7098e%7C500cec43-3dc4-4f4e-8680-465ba237fae1&eid=35678746&utm_campaign=Benchmarks&utm_medium=email&ic=false&_hsenc=p2ANqtz-_7ZKcWvSZz7oVoYRcrbW96-bwRgXNgIb-sS0YD5gQ_XzVjFQhWBPixR3bnBLZ4P3kODCR1lsuK1pZOd7LHdCxWIbnkVQ&_hsmi=35678746&utm_content=35678746&utm_source=hs_automation
+**Nota: Exite correo de CIS en juan.romero@dnp.com.ni
+
+https://benchmarks.cisecurity.org/downloads/show-single/?file=rat.unix.253
+
+* Eliminar contraseña por defecto 
+
+	http://www.defaultpassword.com/
+	http://www.phenoelit.org/dpl/dpl.html
+
+* Contraseñas debiles
+
+Validar contraeñas
+	https://howsecureismypassword.net/
+
+Lista de contraseñas debiles 
+
+https://www.symantec.com/connect/blogs/top-500-worst-passwords-all-time
+
+* Contraseña segura
+
+$Elcarroesdecolorrojo2017
+
+2- DMZ
+
+- Habilitar los LOGS.
+- Respladar los registros.
+
+3- LOGS
+
+Herramientas:
+
+* Snare Agent.
+* Splunk
+* OSSEC: www.ossec.net
+* syslog-ng http://www.balabit.com/network-security/syslog-ng/opensource-logging-system/downloads/download
+* Que LOGS habilitar:
+
+	- http://malwarearchaeology.squarespace.com/cheat-sheets
+
+4- Base de datos no debe estar en el mismo servidor de la aplicacion (Staging).
+5-  Doble factor de firewall
+6- VPN Interno para evitar sniffer en la red.
+7- Habilitra sniffer en la red con port mirror.
+8- Hardening de LINUX.
+	- Bastille Linux.
+9- Conceptos varios:
+	
+	- Privilegios minimos.
+	- Politicas de seguridad.
+	- Repuesta a incidentes.
+	- Validacion de entradas.
+	- Documentacion.
+	- Ingeneria social
+	- Hardening de antivirus y parches.
+
+Privilegios minimos: 
+
+Acceso a panel de control.
+Acceso a CMD.
+Acceso a Internet.
+Privilegios de administrador.
+Identificar porque la herramienta no pudo ejecutarse:
+	pctools de winows. 
+Usuario con privilegios de administrador.
+	VLAN separados. 
+Ventajas: 
+	Evita que usuarios instalen apliaciones que puedan dañar el sistema operativo de su computador,
+	Hacer cambios de configuracion del hardware y propagacion de malware. 
+desventajas:
+	Mas tareas pare el equipo de TI.
+
+Politicas de seguridad:
+
+	SANS.org
+	Politica de uso aceptable.
+	publicar politicas
+	Sancion en caso de incumplimiento.
