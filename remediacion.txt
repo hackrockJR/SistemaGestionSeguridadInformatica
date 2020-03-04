@@ -1,0 +1,177 @@
+------------------------------------------------------------------------------------------
+				Metodos de escaneo
+------------------------------------------------------------------------------------------
+
+- Caja Blanca:
+
+Se tiene una vision total de la red a analizar, asi como acceso a todos los equipos como superusuario.
+
+
+- Caja Negra:
+
+Se proporciona informacion de acceso a la red. 
+
+
+-Analisis de vulnerabilidades
+  
+50 % de un Ethical Hacking. Aqui solo se recolecta las vulnerabilidades encontradas en equipos informaticos. 
+
+- Penetration testing
+
+En esta etapa se finaliza la auditoria de seguridad, tratando de vulnerar equipos informaticos. 
+
+- Escaneres de vulnarabilidades:
+
+* Nessus
+* GFI Landguard
+* Metasploit 
+
+
+Los analizadores de vulnerabilidades usan base de datos de las actuales vulnarabilidades existentes:
+
+* CVE : Common Vulnerabilities and Exposures.
+* Errores de configuracion.
+* Contraseñas por defecto.
+
+
+------------------------------------------------------------------------------------------------------------
+			Acuerdo de confidencialidad
+------------------------------------------------------------------------------------------------------------
+
+Realizar un acuerdo de confidencialidad en todas as partes involucradas en el analisis.
+
+Nombres de usuarios y contraseñas, agujeros de seguridad, documentos expuesto, etc.
+
+Toda la informacion obtenida a traves del analisis debe ser utilizada para:
+
+Informativos.
+Mejora de servicios y seguridad.
+
+
+*Reglas del juego
+
+- Evitar test que podrian causar daños en ambientes sensibles. Por ejemplo una denagacion de servicios a
+un servicio en produccion que gestione las ventas.
+
+
+
+------------------------------------------------------------------------------------------------------------
+			Reunion de informacion
+------------------------------------------------------------------------------------------------------------
+
+
+Dependiendo el tipo de test
+
+En un test de caja blanca
+
+- Servidores 
+- IP 
+- Servicios
+- Puertos
+- Contraseñas
+- Usuarios
+
+
+Caja negra 
+
+Solamente IP. 
+
+
+--------------------------------------------------------------------------------------------------------------
+					OSINT (Open Source INTelligence)
+--------------------------------------------------------------------------------------------------------------
+
+- Requisitos 
+- Fuentes de informacion
+- Adquisicion
+- Procesamiento
+- Analisis
+- Inteligencia
+
+
+---------------------------------------------------------------------------------------------------------------
+						Test Interior
+---------------------------------------------------------------------------------------------------------------
+
+1- Revision de la privacidad.
+2- Testeo de Aplicaciones de Internet.
+3- Testeo de Sistemas de deteccion de intrusos.
+4- Testeo de medidad de contingencia.
+5- Descifrado de Contraseñas.
+6- Testeo de Denegacion de servicios.
+7- Evaluacion de Politicas de seguridad (Politicas de acceso/ ejm. reglas de firwall perimetral).
+
+-----------------------------------------------------------------------------------------------------------------
+					        Test exterior
+-----------------------------------------------------------------------------------------------------------------
+
+
+1- Revision de la inteligencia competitiva.
+	Informacion encontrada en internet.
+2- Revision de Privacidad.
+	Salida no autorizada de la informacion. 
+3- Testeo de solicitud.
+	Telefonos / correos. 
+4- Testeo de Sugerencia Dirigida:
+	-Sondeo de Red.
+	-Identificacion de servicios de sistemas.
+	-Busqueda y verificacion de vulnerabilidades.
+	(Complice en la organizacion(Insider)). 
+5- Testeo de aplicaciones de Internet.
+	ISP/ Servicios / aplicaciones
+6- Testeo de relaciones de confianza.
+	Control de acceso (NAC) 
+7- Verificacion de redes inalambricas.
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+					Documentacion e Informe
+----------------------------------------------------------------------------------------------------------------------
+
+- Lista de vulnerabilidades probadas.
+- Lista de vulnerabilidades detectadas.
+- Lista de servicios y dispositivos vulnerables.
+
+El nivel de riesgo que involucra cada vulnerabilidad encontrada en cada servicio y dispositivo. Como anexo, se deben incluir 
+los resultados de los programas utilizados. 
+
+ 
+
+--------------------------------------------------------------------------------------------------------------------------
+					Reporte ejecutivo 
+--------------------------------------------------------------------------------------------------------------------------
+
+* Dirigido a no informaticos | $$$$$ | Directivos 
+
+Severidad       |  Plugin |                     ID name                   |        IMPACTO               |                     COSTO          |  Solucion 
+
+Critical (10.0)   94403     Default password service for service account    Seguridad facil de vulnerar      Horas hombre - Imagen - $$$$$$$     Encriptacion mas robusta | Contraseñas mas robustas   
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+			             Resutados y reportes 
+-----------------------------------------------------------------------------------------------------------------------
+
+- Que es lo que vamos a hacer?
+
+Analisis web | Wi-Fi | Perimetrales | Equipos | Politicas de seguridad 
+
+
+- Como lo vamos hacer?
+
+Manual ( script SET (pishing) o automatizado (Nessus, GFI landguard , APPScan, Qualisguard) 
+
+
+Evaluar la herramienta en base a Industria a analizar
+	Especificaciones tecnicas
+	Restricciones -> DoS -> WPScan -> 
+
+
+-------------------------------------------------------------------------------------------------------------------------
+				      Reporte final 
+-------------------------------------------------------------------------------------------------------------------------
+
+ 
+Plantilla de reporte de vulnerabilidades 
