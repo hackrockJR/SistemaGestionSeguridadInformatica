@@ -1,0 +1,137 @@
+*Seguridad en capas 
+
+https://es.wikipedia.org/wiki/GNU_Privacy_Guard
+
+EPP:  encrypted pin pat cajeros automaticos 
+
+----------------------------------------
+
+Bitlocker drive Encryption
+
+
+-------------------------------------------
+
+Uso de pista de auditoria / LOG 
+
+----------------------------------------------
+
+
+payload security sandbox 
+
+----------------------------------------------
+
+CyberOPS CISCO: 
+
+https://mkto.cisco.com/security-scholarship
+
+---------------------------------------------
+
+Sanbox Online 
+
+https://www.hybrid-analysis.com
+
+
+-----------------------------------------------
+
+Wireless IPS
+
+https://meraki.cisco.com/technologies/air-marshal-wips
+
+-------------------------------------------------
+
+SIEM OPEN 
+
+https://securityonion.net/
+
+https://github.com/Security-Onion-Solutions/security-onion/wiki/ELSA
+
+
+--------------------------------------------------------------
+
+Certificacion del Datacenter
+
+ datacenter certificado TIER
+
+------------------------------------------------------------
+
+Evaluacion de Datacenter 
+
+https://www.forcehosting.cl/datacenter/que-es-un-certificado-tier-de-un-datacenter
+
+https://www.ovh.es/servidores_dedicados/niveles-tier-3-4.xml
+
+-----------------------------------------------------------------
+
+Arreglo de DISCO 
+
+https://sg.com.mx/revista/06/arreglos-discos-que-son-y-donde-utilizarlos#.Wd7QCltSyUk
+
+-------------------------------------------------------------------------
+
+WIPS 
+
+http://searchsecurity.techtarget.com/feature/Comparing-the-top-wireless-intrusion-prevention-systems 
+
+------------------------------------------------------------------------------
+Evaluar configuracion de switch
+
+http://cybersecurityauditing.blogspot.com/2014/03/nipper-studio-review.html
+
+
+-------------------------------------------------------------------------------
+
+certificacion TIER
+
+http://www.c3comunicaciones.es/data-center-el-estandar-tia-942/
+
+https://es.uptimeinstitute.com/TierCertification/
+------------------------------------------------------------------------------
+
+Cuando una cuenta de usuario se dejara pero sin uso , se deja en el perfil 0 
+
+
+----------------------------------------------------------------------------
+
+Recuperar contraseña windows 
+
+https://www.lifewire.com/step-by-step-guide-to-resetting-a-windows-7-password-2626309
+
+
+------------------------------------------------------------------------------------
+
+https://securingthehuman.sans.org/resources/metrics
+
+
+------------------------------------------------------------------------------------
+
+
+Induccion a proveedores permanentes (Sostenida) en las politicas de la empresa
+
+
+-------------------------------------------------------------------------------------
+
+Acceso a la red wifi proveedores con acuerdo de acceso a la red DNP
+
+
+---------------------------------------------------------------------------------------
+
+Crear acuerdo de acceso a la red DNP de parte de Terceros
+
+
+---------------------------------------------------------------------------------------
+
+
+
+ISO 27005 Analisis y gestion de riesgo.
+
+
+
+------------------------------------------------------------------------------------------
+
+
+Calculadora de analisis de riesgo CVSS https://www.first.org/cvss/calculator/3.0
+
+-------------------------------------------------------------------------------------------
+
+Tripware 
+
