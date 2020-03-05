@@ -110,12 +110,12 @@ Induccion a proveedores permanentes (Sostenida) en las politicas de la empresa
 
 -------------------------------------------------------------------------------------
 
-Acceso a la red wifi proveedores con acuerdo de acceso a la red DNP
+Acceso a la red wifi proveedores con acuerdo de acceso a la red de la empresa
 
 
 ---------------------------------------------------------------------------------------
 
-Crear acuerdo de acceso a la red DNP de parte de Terceros
+Crear acuerdo de acceso a la red de la empres de parte de Terceros
 
 
 ---------------------------------------------------------------------------------------
