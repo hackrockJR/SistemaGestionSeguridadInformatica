@@ -1,0 +1,3286 @@
+Ciclo de tareas OSI >
+
+* Ver los nuevos CVE:
+https://www.cvedetails.com/
+
+* Visualizacion de ataques en tiempo real> 
+
+https://www.honeynet.org/node/960
+
+* Compartir amenazas>
+
+https://www.infragard.org/
+
+* Implementar politicas ISO 
+
+http://www.27000.org/
+
+* Cumplimiento con lesgislacion de Cybersecurity
+
+https://cybersecurity.isaca.org/legislation
+
+
+>> Amenaza y vulnerabilidad
+
+Una amenaza a la ciberseguridad es la posibilidad de que ocurra un evento nocivo, como un ataque.
+
+La vulnerabilidad es una debilidad que hace que un objetivo sea susceptible a un ataque.
+
+
+
+
+/////Ataques de envenenamiento de cache DNS/////
+
+
+>>Origen de un ataque 
+
+Interno / Externo 
+
+
+>> APT
+
+ Una amenaza persistente avanzada (APT) es una amenaza continua a las computadoras que se realizan en el radar contra un objeto específico. 
+ 
+ 
+ 
+>> Identidad Federada
+
+La manera más común de proteger la identidad federada es vincular la capacidad de inicio de sesión a un dispositivo autorizado.
+
+>>>NIST
+
+ Instituto Nacional de Normas y Tecnologías (NIST)
+
+ 
+ creó un marco de trabajo para las empresas y las organizaciones que necesitan profesionales en el área de la ciberseguridad. El marco de trabajo les permite 
+ a las empresas identificar los tipos principales de responsabilidades, los cargos y destrezas de la fuerza laboral necesarias.
+ El marco de trabajo nacional de la fuerza laboral de ciberseguridad clasifica y describe el trabajo de ciberseguridad.
+ 
+ 
+ >>>  Categorias: Siete categorías de paladines en el área de la ciberseguridad
+ 
+
+
+1- Operar y mantener incluye proporcionar soporte técnico, administración, y el mantenimiento necesario para garantizar el rendimiento y la seguridad de los sistemas de TI.
+
+2- Proteger y defender incluye la identificación, el análisis y la mitigación de amenazas a los sistemas internos y redes internas.
+
+3- Investigar incluye la investigación de los eventos cibernéticos o los delitos informáticos que involucran a los recursos de TI.
+
+4- Recopilar y operar incluye operaciones especializadas de ataque y engaño, y la recopilación de información sobre ciberseguridad.
+
+5- Analizar incluye la revisión y evaluación altamente especializada de la información entrante de ciberseguridad para determinar si es útil para la inteligencia.
+
+6- Supervisión y desarrollo establece el liderazgo, la administración y la dirección para realizar el trabajo de ciberseguridad de manera eficaz.
+
+7- Disponer de manera segura incluye conceptualización, diseño y creación de sistemas de TI seguros.
+
+Dentro de cada categoría, existen varias áreas de especialidad. Las áreas de especialidad luego definen los tipos comunes de trabajo de ciberseguridad.
+ 
+ 
+>>> Organizaciones de Cyberseguridad:
+
+CERT> www.cert.org 
+SANS> www.sans.org
+mitre> www.mitre.org
+first> www.first.org
+infosyssec> www.infosyssec.org
+ISC2> www.isc2.org
+MS-ISAC> msisac.cisecurity.org
+
+>> Competencias y organizaciones estudiantiles de ciberseguridad
+
+https://www.nationalcyberleague.org/
+https://www.uscyberchallenge.org/
+https://www.skillsusa.org/
+https://www.uscyberpatriot.org/
+
+>> Certificaciones
+
+Security+
+CEH
+GSEC
+CISSP
+CSIM
+
+>>> Certificaciones CISCO
+
+https://learningnetwork.cisco.com/community/certifications
+
+>>> Primeros pasos 
+
+Estudie: conozca los aspectos básicos al completar los cursos en TI. 
+Sea un estudiante durante toda su vida. La ciberseguridad es un campo en constante cambio y los especialistas en ciberseguridad deben mantenerse actualizados.
+
+Obtenga certificaciones: las certificaciones patrocinadas por la empresa y el sector, de organizaciones como Microsoft y Cisco demuestran que uno posee los conocimientos 
+necesarios para buscar empleo como especialista en ciberseguridad.
+
+Busque pasantías: la búsqueda de una pasantía en seguridad como estudiante puede traducirse en oportunidades en el futuro.
+
+Únase a organizaciones profesionales: únase a las organizaciones de seguridad informática, asista a reuniones y conferencias y participe en foros 
+y blogs para obtener conocimiento de los expertos.
+ 
+>>>Ciberseguridad en grandes empresas>
+
+https://www.youtube.com/watch?v=TQoKFovvigI //Google Datacenter
+
+https://www.youtube.com/watch?v=LUHOs_ggvi4 // LLave maestre de doble factor de autenticacion.
+
+https://support.google.com/accounts/answer/6103523?hl=en&visit_id=637021840281102204-1990519583&rd=1 // Uso de la llave de seguridad. 
+
+
+>>> Principios de la seguridad
+
+Confidencialidad 
+Integridad
+Disponibilidad 
+
+>>> AAA
+
+- Autenticación, Autorización y Auditoría
+
+Algo que conoce + Alqo que tiene + algo que es de usted.
+
+Algo que saben (por ejemplo, una contraseña)
+Algo que tienen (por ejemplo, un token o tarjeta)
+Algo que son (por ejemplo, una huella digital)
+
+- Autorización 
+
+Una ACL determina si un usuario tiene ciertos privilegios de acceso una vez 
+que el usuario autentica. Solo porque no puede iniciar sesión en la red de la empresa 
+no significa que tenga permitido utilizar
+
+- Auditoria 
+
+Contabilidad Rastrea las actividades de los usuarios, incluidos los sitios a los que tienen acceso, 
+la cantidad de tiempo que tienen acceso a los recursos y los cambios realizados. Por ejemplo, 
+un banco hace un seguimiento de cada cuenta del cliente. Una auditoría de ese sistema puede revelar el tiempo 
+y la cantidad de todas las transacciones y el empleado o el sistema que ejecutaron las transacciones.
+ 
+ 
+ microsoft: Local computer policy/ Local policies/ polic: audit the access of global...
+ 
+///// Mapa de DDoS attack///
+
+http://www.digitalattackmap.com/
+
+//////////////////////////////
+
+>>> Leyes de seguridad.
+
+Ley de privacidad de 1974.
+Ley de libertad de la informacion (FOIA)
+Ley de derechos educacionales y privacidad de la familia. (FERPA)
+Ley de abuso y fraude informatico (CFAA)
+Ley de proteccion de la privacidad de los niños en linea de los Estados Unidos (COPPA).
+Ley de proteccion de la privacidad de video (VPPA)
+Ley de Responsabilidad y Portabilidad de Seguro medico.
+Ley de Gramm-Leach-Billey (GLBA)
+Declaracion del senado de california 1386 (SB 1386)
+Reglas y Normas del Sistema Bancario de los Estados Unidos
+Estandard de seguridad de datos para tarjetas de pago (PCI DSS)
+Ley de informes de Creditos Justos (FCRA)
+Ley de proteccion de la informacion Personal y Documentos Electronicos (Canada)
+Ley de proteccion de la informacion Personal procesada por computadora (china)
+Ley de proteccion de la informacion Personal (Japon)
+Convencion para la proteccion de las Personas con respecto al Proceso Automatico 
+de datos personales (Rusia)
+Articulo 8 de la convencion Europea sobre Derechos Humanos (Reino Unido).
+
+>>> Integridad: 
+
+La integridad es la precisión, uniformidad y confiabilidad de los datos durante su ciclo de vida. Otro término para la integridad es el de calidad. 
+Los datos experimentan varias operaciones como captura, almacenamiento, recuperación, actualización y transferencia. Las entidades no autorizadas 
+deben mantener inalteradas los datos durante todas estas operaciones.
+
+
+Uso de hash, comprobacion de validacion de datos. 
+
+>>> Niveles de la integridad:
+
+Nivel Critico:
+
+Servicios de Salud y servicios de emergencias. 
+
+Nivel Alto: 
+
+Comercio Electronico y analisis. 
+
+Nivel Intermedio:
+
+Ventas en linea y motores de busqueda.
+
+Nivel bajo:
+
+Blogs y sitios de publicaciones personales. 
+
+>>> Verificacion de la integridad:
+
+Checksum(Hash): Hash coincide 
+
+Hash : MD5, SHA-1 , SHA-256 , SHA-512
+
+
+>>> Disponibilidad de la informacion:
+
+Factores que afecta: 
+
+Denegacion de Servicio. 
+Ataques maliciosos.
+Fallas del Equipo. 
+Desastres Naturales. 
+
+>>> Principio de Diseño de Diponibilidad:
+
+Alta disponibilidad. 
+
+- Eliminar puntos sincillos de falla. 
+
+Identifique todos los dispositivos y componenetes de un sistema que podrian ocacionar
+una falla del sistema.
+
+
+- Proporcionar una conexion cruzada confiable.
+
+Uso de fuentes de aliemntacion redundantes, los  sistemas de energia de respaldo
+y los sistemas de comunicacion de respaldo. 
+
+- Detectar Fallas a medidas que se producen. 
+
+Uso de deteccion de fallas (SIEM). 
+Accion en el caso de una falla, levantar respaldo.
+
+- Asegurar la disponibilidad:
+
+Mantenimiento de equipos.
+Actualizacion OS. 
+Sistemas de copias de seguridad. Deben verificarse.
+Planificacion para evitar desastres. 
+Implementacion de tecnologias nuevas.
+Supervisión de los sistemas. ( Verificacion de amenazas) 
+Comprovacion de los sistemas(evaluacion de vulnerabilidades).
+
+
+>>> Tipo de almacenamiento de datos
+
+- DAS ( Almacenamiento de conexion directa ): almacenamiento como un disco o una USB. 
+
+- RAID (Matriz redundante de discos independientes (RAID): Uso de varios Discos duros 
+  en una matriz.
+  
+- NAS (Dispositivo de almacenamiento conectado a la red) Permite el almacenamiento y la 
+recuperación de datos desde una ubicacion centralizada. 
+
+La mejor alternativa de proteccion de los datos es con un sistema de almacenamiento centralizado
+con respaldos. hay que tener cuidado con las fallas del dispositivo de almacenamiento ,se debe 
+contar con alta disponibilidad.
+
+>>> Datos en transito
+
+Medidas de proteccion: 
+
+- VPN 
+- SSL 
+- IPsec
+- Cifrado/Decifrado local(Equipos)
+- Hash
+- Redundancia
+- Reserva activa
+
+>>> Datos en procesos
+
+Entrada de datos. (Errores de entradas, Sistemas desconectados, identificadores erroneos)
+Modificacion de los datos. (cambios manuales , Fallas en equipos, codificacion , cifrado, malware)
+Salidas de datos ( Usos incorrecto de delimitadores de datos, configuraciones incorrectas de comunicacion
+impresoras configuradas incorrectamente.)
+
+Contramedidas:
+
+- Control de acceso.
+- Validacion de datos.
+- Duplicacion de datos. 
+
+>>> Herramientas proteccion:
+
+Software: 
+
+Firewalls.
+Escaneres de servicios (NMAP)
+Analizadores de protocolos (Wireshark, Solarwinds)
+Escaneador de vulnerabilidades ( NESSUS, SPLUNK)
+IPS (Sistemas de prevencion de intrusos) 
+
+Hardware: 
+
+Firewall 
+IPS
+Filtrado de contenido 
+WAF
+Antispam 
+Wireless protection 
+
+Proteccion basado en la red:
+
+VPN 
+Nacional
+Wireless protection 
+
+>>> Proteccion en la Nube:
+
+Software como servicio (SaaS)
+
+Infraestructura como servicio (IaaS)
+
+Plataforma como servicio (PaaS)
+
+ITaaS(TI como servicios)
+
+>>>>Usuario y tecnicos como eslabon mas debil<<<<
+
+Nuevos talentos.
+Conciencia de Seguridad.
+Capacitacion al personal.
+Capacitacion en linea. 
+
+Politicas de seguridad. 
+
+Politica de uso aceptable (UAP) : Define que puede y no pueden realizar los usuarios. 
+
+>>> Principio de uniformidad<<
+
+Uso de estandares internacionales.
+
+>>>Frameworks<<<
+
+NIST
+NSA
+Common criteria > https://www.commoncriteriaportal.org/
+
+>>>Documentos de procedimientos<<<
+
+Procedimientos por areas , servicios .
+
+Documentos de cambios.
+
+Ventanas de mantenimiento. 
+
+>>> ISO/IEC<<<
+
+ es un estándar para la seguridad de la información publicado por la Organización
+ Internacional de Normalización y la Comisión Electrotécnica Internacional. 
+ La versión más reciente es la ISO/IEC 27002:2013.
+
+ ISO 27002:2013 y sus controles.
+ 
+ 
+ Describe implementación de un sistema de administración de seguridad de la información (ISMS)
+
+
+Doce dominios:
+
+1- Evaluacion de riesgos:
+
+Este es el primer paso en el proceso de administracion de riesgos. Determina el valor
+cuantitativo y cualitativo del riesgo relacionado con una situacion especifica o una 
+amenaza reconocida. 
+
+2- Politica de Segurdiad:
+
+Es un documento que aborda las restricciones y los comportamientos de los miembros de una 
+organizacion y especifica a menudo como se puede acceder a los datos y quien puede acceder 
+a determinados datos. 
+
+3- Organizacion de la seguridad Informatica. 
+
+Es el modelo de gestion establecido por una organizacion para la seguridad de la informacion.
+
+4- Gestion de activos.
+
+Es un inventario y el esquema de clasificacionn para los recursos de informacion.
+
+5- Seguridad de los recursos humanos.
+
+Aborda los procedimientos de seguridad relacionados con empleados que ingresan , se desplazan
+y  dejan una organizacion.
+
+6- Seguridad Fisica y medioambiental.
+
+Describe la proteccion de las instalaciones informaticas dentro de una organizacion.
+
+7- Administracion de operaciones y comunicaciones.
+
+Describe la administracion de los controles de seguridad tecnica en los sistemas y las redes. 
+
+8- Adquisicion , desarrollo y mantenimiento de sistemas informaticos.
+
+Describe la integracion de la seguridad en las aplicaciones. 
+
+9- Control de acceso
+
+Describe restricciones de los derechos de acceso a las redes, los sistemas , las aplicaciones
+funciones y los datos. 
+
+10 - Administracion de incidentes de seguridad informatica.
+
+Describe como anticipar y responder a las violaciones de seguridad informatica.
+
+11- Administracion de la continuidad empresarial.
+
+Describe la proteccion , el mantenimiento y la recuperacion de los sistemas y procesos criticos.
+
+12- Cumplimiento.
+
+Describe el proceso de garantizar el cumplimiento de las politicas , los estandares y las regulaciones
+de seguridad informatica. 
+
+
+>>>Objetivos de control<<<
+
+Definir y publicar politicas de seguridad 
+
+Lista de comprobacion para auditorias
+
+auditoria ISMS. (Sistema de gestion de seguridad de la informacion). para certificarse ISO 27001
+
+>>>Controles<<<
+
+Son los detalles de los objetivos. 
+
+Los controles no son obligatorios, sino que están ampliamente aceptados y adoptadas.
+Los controles deben mantener la neutralidad del proveedor para evitar la imagen de que respalda a un producto o a una empresa específica.
+Los controles son como las pautas. Esto significa que puede haber más de una manera de cumplir con el objetivo.
+
+>>>Aplicacion de la ISO/IEC<<<
+
+La iSO 27000 Es un marco de trabajo Universal.
+La ISO 27001 funciona como una lista de verificacion.
+> Las empresas genera un documento llamado declaracion de aplicabilidad (SOA).
+> Los controles de la ISO/IEC estan directamente relacionados con el principio CIA(Confidencialidad,integridad,disponibilidad)
+> La ISO/IEC se relaciona con las politicas de seguridad 
+
+
+>>>2.5.2.5<<<
+
+Laboratorio USer in linux 
+
+$ sudo su // Aumentar privilegios.
+
+# groupadd HR //agregar grupo 
+
+#cat /etc/group //Verificar grupos
+
+#adduser jenny //agregar usuario. // Repetir esto con otros usarios como joe
+
+#usermod -G HR jenny //agregar el usuario jenny al grupo HR
+
+#cat /etc/passwd verificar los usurios en el archivo passwd 
+#cat /etc/shadow ver los usuarios creados en el archivo oculto 
+
+>Acceder a la ventana tty1 > CTRL+ALT+F1 o abrir terminal en la GUI con 
+
+CTRL+AlT+F7 e ingrese 
+
+$ su -l jenny // Inicio de session en Jenny
+
+$ pwd  // Ver directorio actual.
+
+$ cd .. // retroceder directorio
+
+$ ls -l // ver todos los directorios.
+
+cd joe // ingresar carpeta de otro usuario
+
+CTRL+ALT+F2 // ingresar a otra session tty2 
+
+$sudo -i  // ingresar a usario raiz
+
+# cd /home // ingresar a home
+
+#chmod o-x joe // cambiar permiso de otros usuarios en la carpeta de joe.
+
+#ls -l // Ver directorios con sus permisos.
+
+CTRL+ALT+f1 // Acceder a la ventana tty1
+
+verrificar estar con el usuario jenny@ubuntu#
+
+jenny@ubuntu:/home# cd joe // intentar ingresar a carpeta de joe
+
+>>Permisos<<
+
+chmod u+rmx //Lectura,escritura , ejecucion.
+chmod u+rw //lectura, escritura
+chmod o+r // lectura 
+chmod g-rwx // Elimina permisos de lectura , escritura y de ejecucion para el grupo
+
+
+>>Permisos absolutos<<
+
+numeros
+
+7	Lectura, escritura y ejecucion
+6   lectura, escritura 
+5   lectura y ejecucion
+4	lectura 
+3	escritura y ejecucion
+2	escritura
+1	ejecucion
+0	ninguna 
+
+Al escribir el comando 764 <Name_File> se asignara los siguientes permisos.
+
+- El usuario recibira permisos de lectura, escritura y ejecucion
+- El grupo tendra permiso de lectura y escritura
+- otros obtendran acceso a lectura.
+
+ejemplo>
+
+jenny@ubuntu:/home#chmod 705 joe
+
+#ls -l 
+
+#cd joe
+
+$ touch test.txt
+
+$ exit 
+
+$ su -l jenny 
+
+$ cd /home 
+$ cd /joe
+$ ls -l
+$ touch jenny.txt // no tenemos permiso para crear archivos
+
+//Fin LAB
+
+>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<;
+
+>> LAB Controles de integridad de archivos <<
+
+Hash calculator> https://www.tools4noobs.com/online_tools/hash/
+
+Encipher <Encritar texto y archivos en PC> https://encipher.it/
+
+Calcular HMAC <Sha1> https://www.freeformatter.com/hmac-generator.html
+
+
+>>>Amenazas, Vulnerabilidades y ataques>
+
+amenaza a la ciberseguridad es la posibilidad de que ocurra un evento nocivo, 
+como un ataque.  
+
+Una vulnerabilidad es una debilidad que hace que un objetivo sea 
+susceptible a un ataque. 
+
+Un ataque es una explotación deliberada de una debilidad 
+detectadas en sistemas de información de la computadora, ya sea como objetivos 
+específicos o simplemente como objetivos de la oportunidad
+
+Malware>
+
+El software malicioso, o malware, es un término que se utiliza para describir el software diseñado 
+para interrumpir las operaciones de la computadora u obtener acceso a los sistemas informáticos,
+sin el conocimiento o el permiso del usuario.
+
+Virus
+
+Un virus es un código malicioso ejecutable asociado a otro archivo ejecutable, como un programa legítimo. 
+La mayoría de los virus requieren la inicialización del usuario final y pueden activarse en un momento o fecha específica.
+
+
+Gusanos
+
+Los gusanos son códigos maliciosos que se replican al explotar de manera independiente las vulnerabilidades en las redes. Los gusanos, por lo general, ralentizan las redes. 
+
+Troyano
+
+Un troyano es un malware que ejecuta operaciones maliciosas bajo la apariencia de una operación deseada. 
+Bomba lógica
+Una bomba lógica es un programa malicioso que utiliza un activador para reactivar el código malicioso. 
+Por ejemplo, los activadores pueden ser fechas,horas, otros programas en ejecución o la eliminación de una cuenta de usuario.
+ La bomba lógica permanece inactiva hasta que se produce el evento activador. Una vez activada, una bomba lógica implementa un código malicioso que provoca daños en una computadora.
+
+
+Ransomware
+El ransomware mantiene cautivo a un sistema informático o los datos que contiene hasta que el objetivo haga un pago. El ransomware trabaja generalmente encriptando los datos 
+de la computadora con una clave desconocida para el usuario. El usuario debe pagar un rescate a los delincuentes para eliminar la restricción
+
+
+
+Malware> https://www.exterminate-it.com/malpedia/ransomware-category/19 //url con categorizacion del malware
+ 
+Backdoor
+
+ 
+Una puerta trasera o un rootkit se refiere al programa o al código que genera un delincuente que ha comprometido un sistema. 
+La puerta trasera omite la autenticación normal que se utiliza para tener acceso a un sistema. 
+Algunos programas comunes de puerta trasera son Netbus y Back Orifice, que permiten el acceso remoto a los usuarios no autorizados del sistema.
+ 
+ 
+Contramedidas del malware>
+
+Programa antivirus: la mayoría de los conjuntos de antivirus adquieren las formas más generalizadas de malware. Sin embargo, 
+los delincuentes cibernéticos desarrollan e implementan nuevas amenazas a diario. Por lo tanto, la clave para una solución antivirus eficaz
+es mantener actualizadas las firmas. Una firma es como una huella. Identifica las características de un código malicioso.
+Software de actualización: muchas formas de malware alcanzan sus objetivos mediante la explotación de las vulnerabilidades del software, en el sistema operativo 
+y las aplicaciones. Aunque las vulnerabilidades del sistema operativo eran la fuente principal de los problemas, las vulnerabilidades actuales a nivel de las aplicaciones 
+representan el riesgo más grande. Desafortunadamente, aunque los fabricantes de sistemas operativos son cada vez más receptivos a los parches, la mayoría de los proveedores
+ de aplicaciones no lo son.
+ 
+ 
+>>Correo no deseado<<
+
+ Algunos de los indicadores más comunes de correo no deseado son los siguientes:
+
+El correo electrónico no tiene asunto.
+El correo electrónico solicita la actualización de una cuenta.
+El texto del correo electrónico tiene palabras mal escritas o puntuación extraña.
+Los enlaces del correo electrónico son largos o crípticos.
+Un correo electrónico se parece a una correspondencia de una empresa legítima.
+El correo electrónico solicita que el usuario abra un archivo adjunto.
+
+SPAM > https://www.consumer.ftc.gov/articles/0038-spam 
+
+
+>> Spyware , adware, Scareware <<< 
+
+El spyware es un software que permite a un delincuente obtener información sobre las actividades informáticas de un usuario. 
+ 
+El adware muestra generalmente los elementos emergentes molestos para generar ingresos para sus autores. El malware puede analizar 
+los intereses del usuario al realizar el seguimiento de los sitios web visitados. 
+
+El scareware convence al usuario a realizar acciones específicas según el temor. El scareware falsifica ventanas emergentes que se asemejan
+ a las ventanas de diálogo del sistema operativo.
+
+>>> Falsificacion de identidad<<<<
+
+Falsificación de identidad
+La suplantación de identidad es una forma de fraude. Los delincuentes cibernéticos utilizan el correo electrónico, la mensajería instantánea u otros medios sociales
+ para intentar recopilar información como credenciales de inicio de sesión o información de la cuenta disfrazándose como una entidad o persona de confianza.
+ 
+>>Scam aletrs: https://www.consumer.ftc.gov/features/scam-alerts
+
+>>>> Vishing , Smishing, Pharming, 
+
+
+El «Vishing» es una práctica de suplantación de identidad mediante el uso de la tecnología de comunicación de voz. Los delincuentes pueden realizar llamadas de suplantación de fuentes
+ legítimas mediante la tecnología de voz sobre IP (VoIP).
+ 
+El «Smishing» (suplantación del servicio de mensajes cortos) es una suplantación de identidad mediante la mensajería de texto en los teléfonos móviles. Los delincuentes se hacen pasar 
+por una fuente legítima en un intento por ganar la confianza de la víctima.
+
+El «Pharming» es la suplantación de un sitio web legítimo en un esfuerzo por engañar a los usuarios al ingresar sus credenciales. El «Pharming» dirige erróneamente a los usuarios a un
+ sitio web falsas que parece ser oficial. Las víctimas luego ingresan su información personal pensando que se conectaron a un sitio legítimo.
+ 
+El «Whaling» es un ataque de suplantación de identidad que apunta a objetivos de alto nivel dentro de una organización, como ejecutivos sénior. Los objetivos adicionales incluyen 
+políticoso celebridades.
+
+>>Ataque navegador web<<
+
+- Un delincuente puede hackear el archivo ejecutable de un navegador, los componentes de un navegador o sus complementos.
+
+- el envenenamiento SEO utiliza la SEO(Ubicacion en el ranking de busqueda) para hacer que un sitio web malicioso aparezca más arriba en los resultados de la búsqueda.
+
+- Secuestrador de navegadores
+
+Un secuestrador de navegadores es el malware que altera la configuración del navegador de una computadora para redirigir al usuario a sitios web que pagan los clientes
+ de los delincuentes cibernéticos.
+ 
+ 
+ Contramedidas> 
+ 
+ Los métodos para tratar con correo no deseado incluyen el filtrado de correo electrónico, la formación del usuario sobre las precauciones frente a correos electrónicos desconocidos y
+ el uso de filtros de host  y del servidor.
+ 
+ antivirus y programas de software de correo electrónico realizan automáticamente el filtrado de correo electrónico. Esto significa que detectan y eliminan el correo no deseado de la 
+ bandeja de entrada del correo  electrónico.
+ 
+ Las organizaciones también advierten a los empleados sobre los peligros de abrir archivos adjuntos de correo electrónico que pueden contener un virus o un gusano. 
+ 
+ 
+El Grupo de trabajo contra la suplantación de identidad (APWG) es una asociación del sector que se dedica a eliminar el robo de identidad y el fraude ocasionado por la suplantación de
+ identidad y la suplantación de correo electrónico.
+
+Si mantiene todo el software actualizado, esto garantiza que el sistema tenga todos los últimos parches de seguridad aplicados para remover las vulnerabilidades conocidas.
+
+
+Proteccion en navegadores> 
+
+- Actualizar el navegador.
+
+- Habilite la opción de complementos de reproducción por clic en su navegador web. Esto hará que las páginas web se carguen más rápido y le ahorrará ciclos de CPU y batería. 
+También tiene importantes beneficios de seguridad. Los atacantes no podrán explotar fallas en los complementos de su navegador en segundo plano, ya que solo permitirá que
+ el complemento se cargue cuando tenga una buena razón para hacerlo.
+
+- Desinstalar plugin que no necesita.
+
+- Actualizar plugins.
+
+- Usar navegador de 64 bits
+
+- Correr un antiexploit. 
+
+- Precaucion para uso de extensiones en el navegador.
+
+https://es.malwarebytes.com/techbench/
+
+>>> Ingeneria Social<<<
+
+Ingeniería social
+
+La ingeniería social es un medio completamente no técnico por el que el delincuente reúne información sobre un objetivo. La ingeniería social es un ataque que intenta manipular
+ a las personas para que realicen acciones o divulguen información confidencial.
+ 
+Los ingenieros sociales con frecuencia dependen de la disposición de las personas para ser útiles, pero también se aprovechan de sus vulnerabilidades.
+ Por ejemplo, un atacante puede llamar a un empleado autorizado con un problema urgente que requiere acceso inmediato a la red. El atacante puede atraer la vanidad 
+ o la codicia del empleado o invocar la autoridad mediante técnicas de nombres.
+ 
+Las tácticas de ingeniería social incluyen las siguientes:
+
+Autoridad: es más probable que las personas cumplan cuando reciben las instrucciones de “una autoridad”
+Intimidación: los delincuentes hostigan a una víctima para que tome medidas
+Consenso/prueba social: las personas tomarán medidas si sienten que a otras personas les gusta también
+Escasez: las personas tomarán medidas cuando consideren que existe una cantidad limitada
+Urgencia: las personas tomarán medidas cuando consideren que existe un tiempo limitado
+Familiaridad/agrado: los delincuentes desarrollan una buena relación con la víctima para establecer una relación y confianza
+Confianza: los delincuentes crean una relación de confianza con una víctima la cual puede tomar más tiempo en establecerse.
+ 
+ >>>> Otras tecnicas <<<
+ 
+ «Espiar por encima del hombro» y «hurgar en la basura»
+ 
+ El «Piggybacking» es una práctica mediante la cual un delincuente sigue a una persona autorizada a todas partes para obtener ingreso a una ubicación segura 
+ o a un área restringida.
+ 
+ El «Tailgating» es otro término que describe la misma práctica.
+
+Una trampa evita la práctica de «piggybacking» al usar dos conjuntos de puertas. Una vez que las personas ingresan a una puerta externa, esa puerta debe cerrarse antes
+ de ingresar a la puerta interna.
+
+ 
+>> Pagina que genera rumores en ingles> https://www.snopes.com/
+
+>>> Cómo defenderse contra el uso de trucos<<<
+
+Nunca proporcione información confidencial o credenciales por correo electrónico, sesiones de chat, en persona o por teléfono a desconocidos.
+Resista el impulso de hacer clic en correos electrónicos y enlaces de sitio web atractivos.
+Preste atención a las descargas no iniciadas o automáticas.
+Establezca políticas y brinde formación a los empleados sobre esas políticas.
+Cuando se trata de la seguridad, ofrezca a los empleados un sentido de la propiedad.
+No se sienta presionado por personas desconocidas.
+
+>>>Ataques denegacion de servicios<<
+
+Denegación de servicio
+Los ataques de denegación de servicio (DoS) son un tipo de ataque a la red. Un ataque de DoS da como resultado cierto tipo de interrupción de los servicios de red a los usuarios, 
+los dispositivos o las aplicaciones. Existen dos tipos principales de ataques de DoS:
+
+Cantidad abrumadora de tráfico: el atacante envía una gran cantidad de datos a una velocidad que la red, el host o la aplicación no puede manejar. Esto ocasiona una disminución
+ de la velocidad de transmisión o respuesta o una falla en un dispositivo o servicio.
+Paquetes maliciosos formateados: esto sucede cuando se envía un paquete malicioso formateado a un host o una aplicación y el receptor no puede manejarlo. 
+Por ejemplo, una aplicación no puede identificar los paquetes que contienen errores o paquetes incorrectamente formateados, reenviados por el atacante.
+ Esto hace que el dispositivo receptor se ejecute muy lentamente o se detenga.
+ 
+ Un ataque de DoS distribuida (DDoS) es similar a un ataque de DoS pero proviene de múltiples fuentes coordinadas:
+ 
+
+ >>Analisis de trafico<<<
+
+ 
+ La técnica de análisis es similar a escuchar a escondidas a alguien. Ocurre cuando los atacantes examinan todo el tráfico de red a medida que pasa por la NIC,
+ independientemente de si el tráfico está dirigidos a ellos o no. Los delincuentes logran realizar análisis de la red con una aplicación de software
+
+>>Falsificación de identidad (spoofing)<<<
+La falsificación de identidad es un ataque que aprovecha una relación de confianza entre dos sistemas.
+
+La falsificación de direcciones MAC se produce cuando una computadora acepta los paquetes de datos según la dirección MAC de otra computadora.
+
+El Protocolo de resolución de dirección (ARP) es un protocolo que corrige las direcciones IP a direcciones MAC para transmitir datos. La suplantación de ARP envía mensajes ARP falsos
+ a través de la LAN para conectar la dirección MAC del delincuente a la dirección IP de un miembro autorizado de la red.
+El Sistema de nombres de dominio (DNS) asigna nombres de dominios en direcciones IP. La suplantación de identidad de servidor DNS modifica el servidor DNS para redirigir un nombre
+ de dominio específico a una dirección IP diferente, controlada por el delincuente.
+
+
+>>> Ataque Man_in_the_middle <<<
+
+Ataque man-in-the-middle
+Un delincuente realiza un ataque man-in-the-middle (MitM) al interceptar las comunicaciones entre las computadoras para robar la información que transita por la red. 
+El delincuente también puede elegir manipular los mensajes y retransmitir información falsa entre los hosts ya que estos desconocen que se produjo una modificación en los mensajes. 
+El ataque MitM permite que el delincuente tome el control de un dispositivo sin el conocimiento del usuario.
+
+
+>>>Ataque de dia Zero<<<
+
+Ataques de día cero
+
+Un ataque de día cero, a veces denominado una amenaza de día cero, es un ataque de la computadora que intenta explotar las vulnerabilidades del software que son desconocidas 
+o no reveladas por el proveedor de software.
+
+>>> Keylogger<<<
+
+El registro del teclado es un programa de software que registra las teclas de los usuarios del sistema. Los delincuentes pueden implementar registros de teclas mediante software 
+instalado en un sistema informático o a través de hardware conectado físicamente a una computadora
+
+
+Algunas medidas de seguridad> https://www.theguardian.com/public-leaders-network/2015/oct/14/how-to-stop-cyber-attacks-on-your-organisation
+
+parcheando regularmente los firewalls
+actualización de firmware
+establecer contraseñas seguras
+cambiar la contraseña con la que vino su enrutador Wi-Fi
+pidiendo a los empleados que usan sus propios dispositivos en el trabajo que instalen un software antivirus y que activen los firewalls.
+
+>>>Laboratorio NMAP y NESSUS<<<<
+
+
+Utilice Nmap y NESSUS, un escáner de puertos y una herramienta de asignación de red para detectar amenazas y
+vulnerabilidades en un sistema.
+
+
+
+>>>> Grayware , SMiShing <<<<
+
+- La técnica de Grayware incluye aplicaciones que se comportan de manera molesta o no deseada.
+
+
+- El término SMiShing es la abreviatura de suplantación de identidad de SMS. Utiliza el Servicio de mensajes cortos (SMS) para enviar mensajes de texto falsos. 
+
+
+>>> Punto de acceso (inalambrico)<<<
+
+Un punto de acceso dudoso es un punto de acceso inalámbrico instalado en una red segura sin autorización explícita. Un punto de acceso dudoso se puede configurar de dos maneras. 
+La primera es cuando un empleado bienintencionado intenta ser útil al facilitar la conexión de dispositivos móviles. La segunda manera es cuando un delincuente tiene acceso físico
+a una organización al escabullirse e instalar el punto de acceso dudoso.
+ 
+Un punto de acceso dudoso también puede referirse al punto de acceso de un delincuente. En este caso, el delincuente configura el punto de acceso como un dispositivo
+de MitM para captar información de inicio de sesión de los usuarios.
+
+Un ataque con AP de red intrusa utiliza el punto de acceso de delictiva gracias a una mayor potencia y antenas más altas de ganancias de ser una mejor opción de conexión 
+para los usuarios. Una vez que los usuarios se conectan al punto de acceso no autorizado, los delincuentes pueden analizar el tráfico y ejecutar ataques de MitM. 
+
+
+>>>>> RF (Interferencia radiofrecuencia) | Redes inalambricas  <<<<<<
+ 
+Interferencia de RF
+Las señales inalámbricas son susceptibles a la interferencia electromagnética (EMI), a la interferencia de radiofrecuencia (RFI) e incluso pueden ser vulnerables a los rayos
+o ruidos de luces fluorescentes. 
+
+>>> «Bluejacking» y «Bluesnarfing» <<<
+
+El Bluetooth es un protocolo de corto alcance y baja energía. El Bluetooth transmite datos en una red de área personal, o PAN, y puede incluir dispositivos como teléfonos móviles,
+ PC portátiles e impresoras. El Bluetooth ha pasado por varias versiones nuevas.
+ 
+- El «Bluejacking» es el término que se utiliza para enviar mensajes no autorizados a otro dispositivo Bluetooth. Una variación de esto es enviar una imagen impactante
+ a otro dispositivo.
+- El «Bluesnarfing» ocurre cuando el atacante copia la información de la víctima de su dispositivo. Esta información puede incluir correos electrónicos y listas de contactos.
+
+
+>>><<<Ataques a los protocolos WEP , WPA, WPA2, WPA3<<<<<
+
+Ataques > 
+
+- Fuerza bruta.
+- Desencriptar aircrak de kali_Linux
+- WLAN spoofing
+
+Medidas de proteccion>
+
+- reconfigurar lo por defecto.
+- Ultimo metodo de autenticacion y encriptacion. 
+- Conexion a invitados.
+- Wireless protection.
+
+>> Configuracion de servidor radius en packet tracert<<<
+
+
+Configurar la seguridad inalámbrica.
+a. En el router inalámbrico, haga clic en Inalámbrico > Seguridad inalámbrica.
+b. Haga clic en el menú desplegable y establezca el Modo de seguridad en WPA2-Enterprise.
+c. Mantenga configurada la opción de encriptación en AES e introduzca las siguientes credenciales del
+servidor RADIUS.
+IP DEL SERVIDOR RADIUS: 10.44.1.252
+Secreto compartido: ciscosecure
+d. Haga clic en Save Settings (Guardar configuración). Haga clic en Continuar. 
+
+
+ Configure el servidor RADIUS.
+a. haga clic en el servidor NTP/AAA.
+b. Haga clic en la ficha Servicios y luego haga clic en AAA.
+c. Introduzca la siguiente información en Configuración de la red:
+Nombre del cliente: ..... HQ
+IP del cliente: ............... 10.44.1.251
+Secreta: ....................... ciscosecure
+Tipo de servidor:.......... Radius
+
+
+>>> XSS Cross site scripting<<<
+
+Ataques pagina web> 
+
+El scripts entre sitios (XSS) es una vulnerabilidad que se encuentra en las aplicaciones Web. El XSS permite a los delincuentes inyectar scripts en las páginas web 
+que ven los usuarios. Este script puede contener un código malicioso.
+
+
+un script malicioso de este tipo puede acceder a cookies, tokens de sesiones u otra información confidencial.
+
+>>> Injeccion de datos (WEB)<<<
+
+Una manera de almacenar datos en un sitio web es utilizar una base de datos. Existen diferentes tipos de bases de datos, como una base de datos de Lenguaje de consulta 
+estructurado (SQL) o una base de datos de Lenguaje de marcado extensible (XML).
+
+Cuando se utiliza una base de datos de XML, una inyección XML es un ataque que puede dañar los datos. Una vez que el usuario proporciona la entrada, el sistema obtiene acceso
+ a los datos necesarios mediante una consulta.
+ 
+>>Inyección SQL
+
+El delincuente cibernético ataca a una vulnerabilidad al insertar una declaración maliciosa de SQL en un campo de entrada. Nuevamente, el sistema no filtra correctamente los 
+caracteres de entrada del usuario en una declaración de SQL
+
+>>Desbordamiento del búfer
+
+Un desbordamiento de búfer se produce cuando los datos van más allá de los límites de un búfer. Los búferes son áreas de memoria asignadas a una aplicación.
+ 
+>> Ejecuciones remotas de códigos <<<<
+
+
+Metasploit es una herramienta para desarrollar y ejecutar el código de ataque contra un objetivo remoto. Meterpreter es un módulo de ataque dentro de Metasploit 
+que proporciona características avanzadas. Meterpreter permite a los delincuentes escribir sus propias extensiones como un objeto compartido.
+
+>> Controles active X <<<<
+
+Los terceros escriben algunos controles ActiveX y estos pueden ser maliciosos. Pueden monitorear los hábitos de navegación, instalar malware o registrar teclas. 
+Los controles ActiveX también funcionan en otras aplicaciones de Microsoft.
+
+
+>>> Java <<<
+
+Existen vulnerabilidades que permiten que el código no confiable sortee las restricciones impuestas por el sandbox. También existen vulnerabilidades en la biblioteca
+ de clase Java, que una aplicación utiliza para su seguridad. Java es la segunda vulnerabilidad de seguridad más grande junto al complemento Flash de Adobe.
+ 
+ 
+ >>Medidas de proteccion para ataques de aplicaciones<<<
+ 
+ 1- Codigo solido.
+ 2- Validar cada entrada. 
+ 3- Software actualizado. 
+ 4- Uso de WAF como F5 ASM. 
+ 
+>>>> 4) Criptologia <<<<<<
+
+ La criptología es la ciencia de generar y descifrar códigos secretos.
+ 
+ La confidencialidad de los datos garantiza la privacidad de modo que solo el receptor previsto pueda leer el mensaje. Las partes logran esto mediante la encriptación. 
+ 
+ La encriptación es el proceso de codificar datos de modo que una parte no autorizada no puede leerlos fácilmente.
+ 
+ El descifrado invierte el proceso. La encriptación también requiere una clave, que desempeña un rol importante en la encriptación y desencriptación de un mensaje. 
+ Las personas que poseen la clave pueden descifrar el texto cifrado a texto simple.
+ 
+ Herramientas de la historia de encriptacion> 
+ 
+ Scytale (Figura 1)
+Cifrado César (Figura 2)
+Cifrado de Vigenère (Figura 3)
+Máquina Enigma (Figura 4)
+
+La administración de claves es la parte más difícil del diseño de un sistema criptográfico. Muchos sistemas criptográficos han fallado por errores en la administración de claves 
+y todos los algoritmos criptográficos modernos requieren procedimientos de administración de claves. En la práctica, la mayoría de los ataques en sistemas criptográficos implican 
+el ataque del sistema de administración de claves, en lugar del algoritmo criptográfico en sí mismo.
+
+Si la seguridad de un sistema de encriptación depende del secreto del algoritmo, el aspecto más importante es proteger al algoritmo a toda costa.
+
+
+
+Los algoritmos simétricos: estos algoritmos utilizan la misma clave precompartida, a veces llamada un par de clave secreta, para cifrar y descifrar datos.
+
+Algoritmos asimétricos: los algoritmos de encriptación asimétrica usan una clave para cifrar los datos y una clave diferente para descifrarlos. 
+Una clave es pública y la otra es privada.
+
+Los tipos más comunes de criptografía son cifrados por bloques y cifrados de flujo.
+
+- Los cifrados por bloques transforman un bloque de texto simple, de longitud fija en un bloque común de texto cifrado de 64 o 128 bits.
+
+ Por ejemplo, el Estándar de cifrado de datos (DES) es un algoritmo simétrico que cifra los bloques en fragmentos de 64 bits mediante una clave de 56 bits. 
+ 
+ 
+- Cifrao de flujo:  Piense en los cifrados de flujo como el cifrado de bloques con el tamaño de bloque de un bit. Con un cifrado de flujo, la transformación de estas 
+unidades más pequeñas de texto simple varía, según cuándo se las encuentra durante el proceso de encriptación.
+
+El A5 es un cifrado de flujo que proporciona privacidad de voz y cifra las comunicaciones de telefonía celular. También es posible utilizar el DES en el modo de cifrado de flujo.
+
+Cifrado asimetrico>
+
+3DES (DES triple): el Estándar de encriptación digital (DES) es un cifrado de bloques simétrico con un tamaño de bloque de 64 bits que utiliza una clave de 56 bits. 
+Se necesita un bloque de texto simple de 64 bits de entrada y genera un bloque de 64 bits de texto cifrado.
+
+IDEA: el Algoritmo internacional de cifrado de datos (IDEA) utiliza bloques de 64 bits y claves de 128 bits. 
+
+AES: el Estándar de encriptación avanzada (AES) tiene un tamaño de bloque fijo de 128 bits con un tamaño de clave de 128, 192 o 256 bits.
+
+Otros cifrados por bloque incluyen Skipjack (desarrollados por la NSA), Blowfish y Twofish.
+
+http://des.online-domain-tools.com/ >>Herramienta online de encriptacion. 
+
+
+Cifrado asimetrico>>
+
+La encriptación asimétrica, también denominada cifrado de clave pública, utiliza una clave para la encriptación que es diferente de la clave utilizada para el descifrado.
+
+RSA (Rivest-Shamir-Adleman): utiliza el producto de dos números primos muy grandes con una longitud igual de entre 100 y 200 dígitos. Los navegadores utilizan RSA para 
+establecer una conexión segura.
+
+Diffie-Hellman: proporciona un método de intercambio electrónico para compartir la clave secreta. Los protocolos seguros, como Secure Sockets Layer (SSL),
+ Transport Layer Security (TLS), Shell seguro (SSH) y Protocolo de seguridad de Internet (IPsec), utilizan Diffie-Hellman.
+
+ElGamal: utiliza el estándar del gobierno de EE. UU. para las firmas digitales. Este algoritmo es gratuito ya que nadie posee la patente.
+
+Criptografía de curva elíptica (ECC): usa curvas elípticas como parte del algoritmo. En EE. UU., la Agencia de Seguridad Nacional utiliza la ECC 
+para la generación de firma digital y el intercambio de claves.
+ 
+ 
+>>Administracion de claves<<<
+
+La administración de claves incluye generación, intercambio, almacenamiento, uso y reemplazo de claves utilizadas en un algoritmo de encriptación.
+
+- Generar la clave.
+- Verificar la clave.
+- Intercambio de las claves.
+- Almacenamiento de las claves.
+- Vida util de la clave.
+- Revocacion y destruccion de claves.
+
+
+Dos términos utilizados para describir las claves son:
+
+Longitud de las claves: también denominado tamaño de la clave, es la medida en bits.
+Espacio de clave: es la cantidad de intentos que una longitud de clave específica puede generar.
+
+>>>>Comparacion de claves simetricas y asimétrica>>>
+
+Es importante comprender las diferencias entre los métodos de encriptación simétricos y asimétricos. 
+Los sistemas de encriptación simétrica son más eficientes y pueden manejar más datos. Sin embargo, la administración de claves con sistemas de encriptación simétrica 
+es más problemática y más difícil de manejar. La criptografía asimétrica es más eficiente en la protección de la confidencialidad de pequeñas cantidades de datos 
+y su tamaño y velocidad permiten que sea más segura para tareas como el intercambio de claves electrónicas que es una pequeña cantidad de datos en lugar de cifrar grandes bloques
+ de datos.
+ 
+ 
+Aplicacion de las claves>>>
+
+- La industria de pago electrónico utiliza 3DES.
+
+- Los sistemas operativos utilizan DES para proteger los archivos de usuarios y los datos del sistema con contraseñas.
+
+- La mayoría de los sistemas de archivos de cifrado, como NTFS, utilizan AES.
+
+- Intercambio de claves por Internet (IKE), que es un componente fundamental de las redes privadas virtuales (VPN) de IPsec.
+
+- Secure Sockets Layer (SSL), un medio para implementar la criptografía en un navegador web.
+
+- Shell seguro (SSH), un protocolo que proporciona una conexión de acceso remoto segura a un dispositivo de red.
+
+- Pretty Good Privacy (PGP), un programa informático que proporciona privacidad y autenticación criptográfica para mejorar la seguridad de las comunicaciones por correo electrónico.
+
+>>>>Controles de acceso fisico<<<
+
+Son obstáculos reales implementados para evitar el contacto directo con los sistemas. El objetivo es evitar que los usuarios no autorizados tengan acceso físico a las instalaciones, 
+el equipo y otros activos de la organización.
+
+>>> Controles de acceso logicos<<<
+
+
+Control de acceso lógico
+
+Los controles de acceso lógico son soluciones de hardware y software que se utilizan para administrar el acceso a recursos y sistemas.
+
+- Encriptacion.
+- Tarjetas inteligentes.
+- Contraseñas.
+- Biometria.
+- ACL
+- Protocolos (PAP, CHAP, AAA, Radio, Kerberos )
+- Firewall
+- Routers
+- Sistema de deteccion y prevencion de intrusos )IDS, IPS
+- Cantidad de intentos y horarios de conexion.
+
+
+>> Controles de acceso administrativos<<<
+
+- Politicas
+- Procedimientos.
+- Practica de contratacion.
+- Verificacion de antecedentes.
+- Clasificacion de los datos. 
+- Capacitacion en seguridad.
+- Revisiones (evaluacion del empleado).
+
+>>Clasificacion de control de acceso<<<
+
+- Confidencial. 
+- Secrerto.
+- Publico. 
+- autorizado.
+
+>> Acceso a objetos (archivos, datos, sistemas)<<<
+
+control de acceso discrecional (DAC). DAC otorga o restringe el acceso de objeto determinado por el propietario del objeto. 
+
+ El propietario de un archivo puede especificar qué permisos (lectura/escritura/ejecución) pueden tener otros usuarios.
+ 
+ El control de acceso basado en roles (RBAC) depende del rol del sujeto. Los roles son las funciones de trabajo en una organización. 
+ Los roles específicos requieren permisos para realizar determinadas operaciones. Los usuarios adquieren permisos a través de su función.
+ 
+ >>>> Control de acceso basado en reglas<<<<
+
+ El control de acceso basado en reglas utiliza listas de control de acceso (ACL) para ayudar a determinar si otorga acceso o no. Una serie de reglas se incluye en la ACL.
+ 
+ Factores> 
+ 
+ - Hora.
+ - Grupo.
+ - Conocimiento.
+ - Propiedades del objeto.
+ - Clasificacion del sujeto. 
+ 
+ >>> Identificacion <<<<
+ 
+ Que conoces> 
+ 
+ La identificación aplica las reglas establecidas por la política de autorización: Un sujeto solicita acceso a un recurso del sistema. Cada vez que el sujeto solicita acceso
+ a un recurso, los controles de acceso determinan si otorgar o denegar el acceso.
+ 
+ Las políticas de ciberseguridad determinan qué controles de identidad deben utilizarse. La sensibilidad de la información y los sistemas de información determinan cuán rigurosos 
+ son los controles.
+
+
+Contraseñas o PIN son ejemplos de algo que un usuario conoce. Las contraseñas son el método más popular que se utiliza para la autenticación. Los términos, contraseña, 
+clave de acceso o PIN se conocen de manera genérica como contraseña.
+
+ 
+ https://howsecureismypassword.net/ >> validar contraseña.
+ https://strongpasswordgenerator.com/ >> Generador de contraseñas.
+ 
+
+Qué es lo que tiene? >
+
+Las tarjetas inteligentes y los llaveros de seguridad son dos ejemplos de algo que los usuarios tienen en su poder.
+
+Uso de token ( Google autenticator) 
+
+Quién es? > 
+
+Una característica física única, como una huella digital, una retina o una voz que identifica a un usuario específico se denomina biométrica.
+
+>>Autenticación de varios factores<<
+
+
+La autenticación de varios factores utiliza al menos dos métodos de verificación. Un llavero con clave de seguridad es un buen ejemplo 
+
+
+>>>Autorizacion<<<
+
+¿Qué es la autorización?
+La autorización controla lo que el usuario puede hacer o no en la red después de una autenticación satisfactoria: Después de que un usuario prueba su identidad, el sistema 
+verifica a qué recursos de red puede acceder el usuario y qué pueden hacer los usuarios con los recursos
+
+Una política de pertenencia a grupos define la autorización según la pertenencia a un grupo determinado.
+
+
+Una política de autoridad define los permisos de acceso según la posición de un empleado dentro de la organización.
+
+
+¿Qué es la responsabilidad?
+La responsabilidad rastrea una acción hasta una persona o un proceso y realiza el cambio a un sistema, recopila esta información e informa los datos de uso.
+
+La implementación de responsabilidad consta de tecnologías, políticas procedimientos y formación.
+
+
+Controles preventivos
+Prevenir significa evitar que algo suceda. Los controles de acceso preventivo evitan que ocurran actividades no deseadas o no autorizadas. 
+
+
+>>> Seguridad en capas<<<
+
+Los obstáculos del control de acceso desalientan a los delincuentes cibernéticos a obtener acceso no autorizado a los sistemas de información o a datos confidenciales.
+
+>> Control de acceso de deteccion>
+
+- Rotacion de trabajo.
+- Vacaciones obligatorias.
+- Registro de auditorias
+- Sistemas de deteccion de intrusos.
+- Señuelos (Honeypot).
+- Revision de eventos de la camara de seguridad.
+- Detectores de movimientos.
+
+
+>> Controles correctivos>
+
+Controles correctivos
+Los controles correctivos contrarrestan algo que no es deseable. Las organizaciones establecen controles de acceso correctivos después de que un sistema experimenta una amenaza.
+ Los controles correctivos restauran el sistema a un estado de confidencialidad, integridad y disponibilidad. También pueden restaurar los sistemas a la normalidad luego de que se
+ produzca una actividad no autorizada.
+ 
+- IPS.
+- Señuelos (Honeypot).
+- Continuidad de negocios.
+- Antivirus.
+- Alarmas.
+- Politicas de seguridad.
+
+>> Controles de recuperacion>
+
+- Operaciones de respaldo.
+- Sistema de activacion de tolerancia a fallas.
+- Agrupacion de servidores. 
+- Seguimientos de base de datos.
+- Antivirus. 
+
+>> Controles compensativos>
+
+Los controles de acceso compensativos ofrecen opciones a otros controles para fomentar el cumplimiento en respaldo de la política de seguridad.
+
+>>>> Enmascaramiento de los datos<<<<
+
+Qué es el enmascaramiento de datos?
+El enmascaramiento de datos es una tecnología que protege los datos al reemplazar la información confidencial por una versión no confidencial.
+
+La sustitución reemplaza los datos por valores que parecen auténticos para aplicar el anonimato a los registros de datos.
+
+El desplazamiento deriva un conjunto de sustitución de la misma columna de datos que un usuario desea enmascarar. 
+Esta técnica funciona bien para la información financiera en una base de datos de prueba, por ejemplo.
+
+La anulación aplica un valor nulo a un campo específico, lo cual evita completamente la visibilidad de los datos.
+
+¿Qué es la esteganografía?
+
+La esteganografía oculta datos (el mensaje) en otro archivo, como un archivo de texto gráfico, de audio u otro archivo de texto.
+
+LAB <Estenografica>
+
+1- # libreoffice secreet.odt &
+2- # gimp keyboard.jpg
+3- # steghide embed -cf keyboarb.jpg -ef secret.odt
+4- # steghide info keyboarb.jpg
+y
+5- # steghide extract -sf keyboarb.jpg
+y
+
+Referencia de la herramienta steghide > http://steghide.sourceforge.net/
+
+
+Esteganografía social
+La esteganografía social oculta información a plena vista al crear un mensaje que algunos pueden leer de determinada manera para recibir el mensaje.
+
+Detección
+El estegoanálisis es el descubrimiento de que existe información oculta. El objetivo del estegoanálisis es detectar información oculta.
+
+Ofuscación
+La ofuscación de datos es el uso y la práctica de las técnicas de esteganografía y enmascaramiento de los datos en el área de ciberseguridad y la profesión de inteligencia cibernética:
+
+La marca el agua de software protege al software del acceso o la modificación no autorizada. La marca de agua de software inserta un mensaje secreto en el programa como prueba de propiedad.
+
+
+>>>LAB configuración del modo de transporte de VPN<<<<
+
+
+En la ficha Escritorio, haga clic en VPN
+c. En la ventana de Configuración de VPN, introduzca la siguiente configuración:
+Nombre del grupo:.......................VPNGROUP
+Clave del grupo:...........................123
+IP del host (IP del servidor): ........209.165.201.19
+Nombre de usuario: .....................phil
+Contraseña: ................................. cisco123
+
+//// Configuracion que corren en el Router> 
+
+username cisco password 0 cisco
+username phil password 0 cisco123
+username sally password 0 123
+
+crypto isakmp policy 10
+ encr aes 256
+ authentication pre-share
+ group 2
+!
+!
+!
+crypto isakmp client configuration group VPNGROUP
+ key 123
+ pool VPNCLIENTS
+ netmask 255.255.255.0
+!
+!
+crypto ipsec transform-set key1 esp-3des esp-sha-hmac
+!
+crypto dynamic-map key2 10
+ set transform-set key1 
+ reverse-route
+!
+crypto map key2 client authentication list VPN
+crypto map key2 isakmp authorization list VPN
+crypto map key2 client configuration address respond
+crypto map key2 10 ipsec-isakmp dynamic key2
+
+ip domain-name CyberFun.com
+
+interface GigabitEthernet0/0
+ ip address 209.165.201.19 255.255.255.248
+ ip nat outside
+ duplex auto
+ speed auto
+ crypto map key2
+!
+interface GigabitEthernet0/1
+ ip address 10.44.2.1 255.255.255.0
+ ip nat inside
+ duplex auto
+ speed auto
+ 
+ interface Vlan1
+ no ip address
+ shutdown
+ 
+ ip local pool VPNCLIENTS 10.44.2.200 10.44.2.230
+ip nat inside source static 10.44.2.253 209.165.201.20 
+ip classless
+ip route 0.0.0.0 0.0.0.0 209.165.201.17 
+
+ip flow-export version 9
+!
+!
+ip access-list standard NAT
+ deny host 10.44.2.254
+ permit any
+ 
+ line con 0
+ password cisco
+ logging synchronous
+ 
+
+line vty 0 4
+ password cisco
+ logging synchronous
+line vty 5 15
+ password cisco
+ logging synchronou
+
+ 10.0.0.0/8 is variably subnetted, 2 subnets, 2 masks
+C       10.44.2.0/24 is directly connected, GigabitEthernet0/1
+L       10.44.2.1/32 is directly connected, GigabitEthernet0/1
+     209.165.201.0/24 is variably subnetted, 2 subnets, 2 masks
+C       209.165.201.16/29 is directly connected, GigabitEthernet0/0
+L       209.165.201.19/32 is directly connected, GigabitEthernet0/0
+S*   0.0.0.0/0 [1/0] via 209.165.201.17
+
+////
+
+>>> COnfiguracion en un router cisco para VPN client<<<
+
+enable
+configure terminal
+crypto isakmp policy 10
+ encr aes 256
+ authentication pre-share
+ group 5
+!
+crypto isakmp key vpnpass address 209.165.201.19
+!
+crypto ipsec transform-set VPN-SET esp-aes esp-sha-hmac
+!
+crypto map VPN-MAP 10 ipsec-isakmp
+ description VPN connection to Branch_Router
+ set peer 209.165.201.19
+ set transform-set VPN-SET
+ match address 110
+!
+interface GigabitEthernet0/1
+crypto map VPN-MAP
+!
+access-list 110 permit ip 10.44.1.0 0.0.0.255 10.44.2.0 0.0.0.255
+!
+end
+copy run start 
+
+
+<<<<<
+
+>>>> Garantziar la integridad<<<
+
+¿Qué es el hash?
+
+La herramienta de hash utiliza una función criptográfica de hash para verificar y proteger la integridad de los datos. 
+
+El hash es una función matemática unidireccional que es relativamente fácil de computar, pero es mucho más difícil de revertir.
+
+La entrada puede ser de cualquier longitud.
+La salida tiene una longitud fija.
+La función de hash es unidireccional y es irreversible.
+Dos valores de entrada distintos casi nunca darán como resultado distintos valores hash.
+
+Las funciones de hash son útiles para asegurar que un usuario o un error de comunicación modifique los datos por accidente. Por ejemplo, es posible que un emisor desee 
+asegurarse de que nadie modifique un mensaje en camino al destinatario.
+
+
+Existen muchos algoritmos de hash modernos que se utilizan ampliamente en la actualidad. Dos de los más populares son MD5 y SHA.
+
+
+MD5 produce un valor hash de 128 bits
+
+
+Instituto Nacional de Normas y Tecnología (NIST) de los Estados Unidos desarrolló SHA, el algoritmo especificado en el Estándar de hash seguro (SHS)
+
+SHA-224 (224 bits)
+SHA-256 (256 bits)
+SHA-384 (384 bits)
+SHA-512 (512 bits)
+
+SHA-2 es un algoritmo más sólido y reemplaza a MD5. SHA-256, SHA-384 y SHA-512 son los algoritmos de próxima generación.
+
+Aplicaciones
+Utilice las funciones de hash criptográficas en las siguientes situaciones:
+
+Para proporcionar una prueba de autenticidad cuando se utiliza con una clave de autenticación secreta simétrica, como Seguridad IP (IPsec) o autenticación del protocolo de routing.
+Para proporcionar autenticación al generar respuestas de única vez y unidireccionales a los desafíos que se presentan en los protocolos de autenticación
+Para proporcionar una prueba de verificación de la integridad del mensaje, como las utilizadas en los contratos con firma digital y en los certificados de infraestructura de 
+clave pública (PKI)
+
+> Decifrar Hash
+
+Desciframiento de hashes
+Para descifrar un hash, un atacante debe adivinar la contraseña. Los dos ataques principales utilizados para adivinar las contraseñas son los ataques de diccionario y 
+de fuerza bruta.
+
+Herramienta de ejemplo : jhon
+
+
+>>> ¿Qué es el «salting»? <<<
+
+Un salt, que es una cadena aleatoria de caracteres, es una entrada adicional a la contraseña antes del hash
+
+Prevención de ataques
+La técnica de «salting» evita que un atacante utilice un ataque de diccionario para adivinar las contraseñas. El «salting» también hace imposible usar las tablas de búsqueda
+ y las tablas de arcoíris para descifrar un hash.
+
+
+>>Tablas de búsqueda inversas
+
+Este ataque permite que el delincuente cibernético inicie un ataque de diccionario o de fuerza bruta en muchos hashes sin la tabla de búsqueda previamente computada.
+ El delincuente cibernético crea una tabla de búsqueda que grafica 
+cada hash de contraseña de la base de datos de la cuenta vulnerada a una lista de usuarios. 
+
+Tablas de arcoíris
+
+Las tablas de arcoíris sacrifican la velocidad de descifrado de hash para que las tablas de búsqueda sean más pequeñas. Una tabla más pequeña significa que la tabla puede almacenar 
+las soluciones para más hashes en la misma cantidad de espacio.
+
+
+Crackear el hash onlince> https://crackstation.net/
+
+Implementación de la técnica de «salting»
+Un generador criptográficamente seguro de números pseudoaleatorios (CSPRNG) es la mejor opción para generar un salt. CSPRNGs genera un número aleatorio que tiene un alto nivel de 
+aleatoriedad y es totalmente impredecible, por lo que es criptográficamente seguro.
+
+El salt debe ser único para cada contraseña de usuario.
+Nunca reutilice un salt.
+La longitud del salt debe coincidir con la extensión del resultado de la función de hash.
+Siempre realice el hash en el servidor en una aplicación web.
+
+Con una técnica llamada «alargamiento de claves» también podrá protegerse de los ataques. El alargamiento de claves hace que el hash funcione muy lentamente.
+Esto impide que el hardware de alto nivel que puede calcular miles de millones de hashes por segundo sea menos eficaz.
+
+Descargar jhon> https://www.openwall.com/john/
+
+Comandos de Jhon > 
+
+./john --wordlist=password.lst --rules mypasswd --format=crypt 
+
+ ./john --show mypasswd
+ 
+ 
+¿Qué es un HMAC?
+El siguiente paso en prevenir que un delincuentes cibernético inicie un ataque de diccionario o un ataque de fuerza bruta en un hash es agregar una clave secreta al hash.
+Solo la persona que conoce el hash puede validar una contraseña. 
+
+Los HMAC utilizan una clave secreta adicional como entrada a la función de hash. El uso de HMAC va un paso más allá de garantizar la integridad al incorporar la autenticación.
+
+Los HMAC también pueden autenticar a un usuario web. Muchos servicios web utilizan la autenticación básica, la cual no cifra el nombre de usuario y la contraseña durante la 
+transmisión. Con el HMAC, el usuario envía un identificador de clave privada y un HMAC. 
+
+
+
+>>>Firma digital <<<
+
+Una firma digital es un método matemático utilizado para validar la autenticidad y la integridad de un mensaje, documento digital o software.
+
+
+
+En muchos países, las firmas digitales tienen la misma importancia legal que un documento manualmente firmado. Las firmas electrónicas son vinculantes
+ para contratos, negociaciones o cualquier otro documento que requiere una firma manuscrita. 
+
+ 
+>> No rechazo | No repudio <<<
+Rechazar significa denegar. La no repudiación es una manera de garantizar que el emisor de un mensaje o documento no pueda negar el envío del mensaje o del documento
+ y que el destinatario no puede negar haber recibido el mensaje o documento.
+
+Envio de correo ejemplo > https://www.youtube.com/watch?v=E5FEqGYLL0o
+
+Firma de código: Se utiliza para verificar la integridad de los archivos ejecutables descargados del sitio web de un proveedor. La firma de códigos también utiliza certificados 
+digitales firmados para autenticar y verificar la identidad del sitio .
+
+Certificados digitales: Se utilizan para verificar la identidad de una organización o de una persona para autenticar el sitio web de un proveedor y para establecer una conexión 
+cifrada a fin de intercambiar datos confidenciales.
+
+Los tres algoritmos comunes de firma digital son el Algoritmo de firma digital (DSA), Rivest-Shamir-Adleman (RSA y el Algoritmo de firma digital de curva elíptica (ECDSA).
+
+1. Generación de claves
+
+2. Verificación de claves
+
+El RSA es el algoritmo más común de la criptografía de clave pública en la actualidad.
+
+Ver video> https://www.youtube.com/watch?v=wXB-V_Keiu8
+
+Herramienta online> http://nmichaels.org/rsa.py
+
+>>Certificado digital<<
+
+¿Qué es un certificado digital?
+Un certificado digital es equivalente a un pasaporte electrónico. Permiten a los usuarios, hosts y organizaciones intercambiar información de manera segura a través de Internet.
+ Específicamente, un certificado digital autentica y verifica que los usuarios que envían un mensaje sean quienes afirman ser. 
+
+¿Qué es una autoridad de certificación?
+
+La CA emite certificados digitales que autentican la identidad de las organizaciones y de los usuarios. Estos certificados también firman mensajes para asegurarse de que nadie los
+manipuló.
+
+¿Qué contiene un certificado digital?
+Siempre y cuando un certificado digital siga una estructura estándar, cualquier entidad podrá leer y comprenderlo, independientemente del emisor. El X.509 es un estándar de la 
+infraestructura de clave pública (PKI) para administrar los certificados digitales. La PKI consta de las políticas, las funciones y los procedimientos necesarios para crear, 
+administrar, distribuir, utilizar, almacenar y revocar los certificados digitales. El estándar X.509 especifica que los certificados digitales contienen la información estándar
+ que se muestra en la figura.
+ 
+ 
+Un certificado digital contiene>
+
+Numero de version. (Version de X.509)
+Numero de serie. (identificador del certificado)
+Identificador del algoritmo del certificado. (algoritmo utilizado)
+Nombre del emisor. (la identidad de CA)
+Periodo de validez. (Fecha de inicio y de vencimiento para la cual es valido el certificado)
+Nombre del sujeto. (Propetario del certificado)
+Informacion de la clave publica del sujeto. (clave publica del propetario y el algoritmo)
+Identificador unico del emisor. (Id del emisor)
+Identificador unico del sujeto. (ID del propetario)
+Extensiones. (Informacion adicional del uso del certificado)
+Firma digital de CA (Firma de clave privada).
+
+El proceso de validación
+Los navegadores y las aplicaciones realizan una comprobación de validación antes de confiar en un certificado para asegurarse de que es válido. 
+Los tres procesos incluyen lo siguiente:
+
+
+
+- La detección de certificados valida el trayecto de certificación al marcar cada certificado desde el comienzo con el certificado de la CA raíz
+- La validación del trayecto selecciona un certificado de la CA de emisión para cada certificado de la cadena
+- La revocación determina si el certificado fue revocado y por qué
+
+El trayecto del certificado
+Una persona obtiene un certificado para una clave pública de un CA comercial. El certificado pertenece a una cadena de certificados llamada cadena de confianza.
+ El número de certificados en la cadena depende de la estructura jerárquica de la CA.
+ 
+ 
+>>> Seguridad en base de datos<<<<
+
+La integridad de datos se refiere a la precisión, la uniformidad y la confiabilidad de los datos almacenados en una base de datos. 
+ 
+- Integridad de la entidad: Todas las filas deben tener un identificador único llamado Clave principal.
+
+- Integridad referencial: Las relaciones entre tablas deben permanecer congruentes. Por lo tanto, un usuario no puede eliminar un registro que se relaciona con otro
+ 
+- Integridad definida por el usuario: Un conjunto de reglas definidas por un usuario que no pertenece a una de las demás categorías.
+ 
+ 
+Controles del ingreso de los datos
+
+El ingreso de datos implica introducir datos en un sistema. Un conjunto de comandos garantiza que los usuarios introduzcan los datos correctos.
+
+Despliegue los controles de datos principales
+
+Cuente con una opción desplegable para las tablas principales en lugar de solicitar a las personas que introduzcan los datos.
+ 
+ 
+>>Controles de validación del campo de datos
+
+- Entrada obligatoria que garantiza que un campo obligatorio contenga datos
+- Máscaras de entrada que evitan que los usuarios ingresen datos no válidos o ayuden a garantizar que introducen datos constantemente (como un número de teléfono, por ejemplo)
+Cantidades positivas en dólares
+- Los rangos de datos garantizan que un usuario ingrese datos dentro de un rango determinado (como una fecha de nacimiento introducida como 01-18-1820, por ejemplo)
+-Aprobación obligatoria de segundas personas (un cajero del banco recibe una solicitud de depósito o de retiro superior al valor especificado lo cual requiere una segunda 
+o tercera aprobación)
+- Activador de modificador de registro máximo (si la cantidad de registros modificados supera un número predeterminado dentro de un período específico bloquea a un usuario 
+hasta que el administrador identifica si las transacciones eran legítimas o no)
+- Indicador de actividad inusual (un sistema se bloquea cuando reconoce actividad inusual)
+
+
+>>>Reglas de validación
+Una regla de validación verifica que los datos se incluyan en los parámetros definidos por el diseñador de la base de datos. Una regla de validación ayuda a garantizar la integridad, 
+la precisión y la coherencia de los datos. Los criterios utilizados en una regla de validación incluyen los siguientes:
+
+Tamaño: Controla la cantidad de caracteres en un elemento de datos
+Formato: Controla que los datos se ajusten a un formato específico
+Coherencia: Controla la coherencia de los códigos en los elementos de datos relacionados
+Rango: Controla que los datos se encuentran dentro de un valor mínimo y un valor máximo
+Dígito de control: Proporciona un cálculo adicional para generar un dígito de control para la detección de errores.
+ 
+> Validación del tipo de datos
+La validación del tipo de datos es la validación de datos más simple y verifica que un usuario que ingresa datos concuerde con el tipo de caracteres esperados.
+
+
+> Validación de entrada
+Uno de los aspectos más vulnerables de la administración de la integridad de la base de datos es controlar el proceso de entrada de datos.
+
+> Verificación de anomalías
+La detección de anomalías se refiere a la identificación de patrones en los datos que no se ajustan al comportamiento esperado.
+
+> Integridad de la entidad
+Una base de datos es como un sistema de llenado electrónico. Mantener un archivado correcto es fundamental para mantener la confianza y la utilidad de los datos en la base de datos.
+
+
+La integridad de la entidad es una regla de integridad, que afirma que cada tabla debe tener una clave primaria y que la columna o las columnas elegidas para ser la clave principal
+deben ser únicas y no NULAS.
+ 
+ 
+> Integridad referencial
+
+Otro concepto importante es la relación entre los diferentes sistemas o tablas de llenado. La base de la integridad referencial es la clave externa. Una clave externa en una tabla
+hace referencia a una clave principal en una segunda tabla. La clave principal de una tabla identifica de manera única a las entidades (filas) de la tabla. La integridad referencial
+mantiene la integridad de las claves externas.
+
+> Integridad del dominio
+La integridad del dominio garantiza que todos los elementos de datos de una columna se incluyan en un conjunto definido de valores válidos. 
+
+Cada columna de una tabla tiene un conjunto definido de valores, como el conjunto de todos los números para los números de tarjetas de crédito, 
+los números de seguridad social o las direcciones de correo electrónico. 
+
+La limitación del valor asignado a una instancia de esa columna (un atributo) aplica la integridad de dominio. La aplicación de la integridad del dominio 
+puede ser tan simple como elegir el tipo de datos, la longitud y el formato correcto para una columna.
+ 
+ 
+ 
+>>>>Cincos nueves<<<<
+ 
+¿Qué son los cinco nueves?
+
+
+Los cinco nueves significan que los sistemas y servicios están disponibles el 99,999% del tiempo
+
+- Elimine los puntos de falla únicos.
+- Diseñe para la confiabilidad.
+- Detecte fallas cuando ocurren
+
+
+Entornos que requieren los cinco nueves
+
+El sector financiero debe mantener una alta disponibilidad para un comercio, un cumplimiento y una confianza del cliente continuos.
+
+Las instalaciones de servicios de salud requieren alta disponibilidad para brindar atención a los pacientes en todo momento. 
+
+La industria de la seguridad pública incluye agencias que brindan seguridad y servicios a la comunidad, el estado o la nación. 
+
+La industria minorista depende de cadenas de abastecimiento eficientes y de la entrega de productos a los clientes.
+
+El público espera que el sector de los medios de comunicación comunique información sobre los eventos a medida que ocurren.
+
+>>> Amenazas a la disponibilidad<<<
+
+Un usuario no autorizado penetra exitosamente y compromete la base de datos principal de una organización.
+Un ataque de denegación de servicio exitoso afecta significativamente las operaciones.
+Una organización sufre una importante pérdida de datos confidenciales.
+Una aplicación crítica se desconecta.
+Ocurre un problema del administrador o usuario raíz.
+Se comparte la detección de un script entre sitios o un servidor de archivos ilegal.
+La degradación del sitio web de una organización afecta las relaciones públicas.
+Una fuerte tormenta, como un huracán o un tornado.
+Un evento catastrófico, como un ataque terrorista, el bombardeo de una construcción o el incendio de un edificio.
+La interrupción del proveedor de servicios o la utilidad a largo plazo.
+Daños por agua como resultado de una inundación o una falla de aspersión.
+
+
+>>>Diseño del sistema de alta disponibilidad<<<
+
+La alta disponibilidad incorpora tres principios fundamentales para lograr el objetivo de un acceso ininterrumpido a los datos y servicios:
+
+1. Eliminación o reducción de puntos de falla únicos.
+
+Permite a un sistema seguir funcionando si uno o mas componentes fallan.
+
+2. Recuperabilidad del sistema.
+
+La capacidad para mantener la disponibilidad durante los eventos.
+
+3. Tolerancia a fallas.
+
+Permite a un sistema seguir funcionando si uno o mas componentes fallan. 
+
+>> Identificación de activos
+
+Cada sistema de hardware.
+Cada sistema operativo.
+Cada dispositivo de red del hardware.
+Cada sistema operativo del dispositivo de red.
+Cada aplicación de software.
+Todo el firmware.
+Todos los entornos de tiempo de ejecución del lenguaje.
+Todas las bibliotecas individuales.
+
+Clasificación de activos
+La clasificación de activos asigna todos los recursos de la organización a un grupo según las características comunes. Una organización debe aplicar un sistema de 
+clasificación de activos a los documentos, los registros de datos, los archivos de datos y los discos.
+
+Complete los pasos siguientes para identificar y clasificar los activos de una organización:
+
+1. Determine la categoría de identificación de activos correcta.
+
+2. Establezca la auditoría de activos mediante la identificación del propietario de todos los recursos de información y software de aplicaciones.
+
+3. Determine los criterios de clasificación.
+
+4. Implemente un esquema de clasificación.
+
+Estandarización de activos
+La administración de activos administra el ciclo de vida y el inventario de los activos tecnológicos, incluidos los dispositivos y el software. 
+Como parte del sistema de administración de activos de TI, una organización especifica los activos de TI aceptables que cumplen los objetivos.
+
+>>> Identificacion de amenazas<<<
+
+El número de identificador de CVE.
+Una breve descripción de la vulnerabilidad en la seguridad.
+Cualquier referencia importante.
+
+http://cve.mitre.org/cve/identifiers/
+
+
+>>>Analisis de riesgo<<<
+
+
+objetivos:
+
+Identificar los activos y su valor.
+Identificar las vulnerabilidades y las amenazas.
+Cuantificar la probabilidad y el impacto de las amenazas identificadas.
+Equilibrar el impacto de las amenazas con el costo de las contramedidas.
+
+> Valor cuantitativo>
+
+
+ El valor de un activo también puede medirse por los ingresos obtenidos del uso del activo. El factor de exposición (EF) es un valor subjetivo expresado como porcentaje
+ de las pérdidas de activos debidas a una amenaza particular. Si se produce una pérdida total, el EF equivale a 1,0 (100%).
+ En el ejemplo cuantitativo, el servidor tiene un valor de activo de USD 15 000. Cuando el servidor falla, ocurre una pérdida total (el EF equivale a 1,0). 
+ El valor de activo de USD 15 000 multiplicado por el factor de exposición 1 da como resultado una única expectativa de pérdida de USD 15 000. 
+ 
+ 
+
+La tasa de frecuencia anual (ARO) es la probabilidad de que una pérdida ocurra durante el año (también expresada como porcentaje). La ARO puede ser mayor que 100% 
+si una pérdida ocurre más de una vez al año.
+
+El cálculo de la expectativa de pérdida anual (ALE) brinda a la gerencia cierta orientación sobre lo que debe gastar para proteger los activos.
+
+Valor cualitativo>
+
+compara la probabilidad de una amenaza con su impacto. Por ejemplo, la amenaza de una falla del servidor puede ser probable, pero su impacto será mínimo.
+
+Mitigación
+La mitigación implica la reducción de la gravedad de la pérdida o de la probabilidad de ocurrencia de la pérdida. Muchos controles técnicos mitigan el riesgo,
+ incluidos los sistemas de autenticación, los permisos de archivos y los firewalls. La organización y los profesionales de seguridad deben comprender que la mitigación de riesgos 
+ puede tener tanto un impacto positivo como negativo en la organización. La buena mitigación de riesgos encuentra un equilibrio entre el impacto negativo de las contramedidas
+ y los controles y el beneficio de la reducción del riesgo. Existen cuatro maneras comunes de reducir el riesgo:
+
+
+- Aceptar el riesgo y reevaluarlo periódicamente.
+- Reducir el riesgo mediante la implementación de controles.
+- Evitar el riesgo modificando completamente el enfoque.
+- Transferir el riesgo a terceros.
+
+>>>Defenza en profundidad<<<<
+
+
+>>> Seguridad en capas
+
+La estratificación es la creación de una barrera de múltiples defensas coordinadas para prevenir ataques. Por ejemplo, una organización puede almacenar sus documentos confidenciales 
+en un servidor en un edificio rodeado por una cerca electrónica.
+
+>>Restricción
+Limitar el acceso a los datos y la información reduce la posibilidad de una amenaza.
+
+
+>> Diversidad
+Si todos los niveles protegidos fueran iguales, no sería muy difícil que los ciberdelincuentes realicen un ataque exitoso. Por lo tanto, los niveles deben ser diferentes. 
+
+>>Ocultamiento (Seguridad basado en la oscuridad)
+
+El ocultamiento de información también puede proteger los datos y la información. Una organización no debe revelar ninguna información que los ciberdelincuentes puedan usar 
+para descubrir qué versión de sistema operativo ejecuta un servidor o el tipo de equipos que usa.
+
+>> Simplicidad
+La complejidad no necesariamente garantiza la seguridad. Si una organización implementa sistemas complejos difíciles de comprender y solucionar, pueden resultar contraproducentes.
+
+>>>> Puntos de fallas unicos<<<
+
+ Los puntos de falla únicos son los enlaces débiles en la cadena que pueden causar una interrupción en las operaciones de la organización. Generalmente, la solución para un punto 
+ de falla único es modificar la operación crítica a fin de que no dependa de un solo elemento.
+ 
+>>> Redundancia<<<
+
+Redundancia N+1
+La redundancia N+1 garantiza la disponibilidad del sistema en caso de una falla de componentes. Los componentes (N) deben tener al menos un componente de respaldo (+1). 
+
+
+> RAID
+Una matriz redundante de discos independientes (RAID) combina múltiples unidades de disco duro físicas en una única unidad lógica para proporcionar redundancia de datos
+ y mejorar el rendimiento.
+
+ 
+ Los siguientes términos describen cómo la RAID almacena los datos en los distintos discos:
+
+Paridad: Detecta errores de datos.
+Creación de bandas de datos: Escribe datos en varios discos.
+Replicación de disco: Almacena los datos duplicados en una segunda unidad.
+
+>>>> Spanning-tree 
+El protocolo de árbol de expansión (STP) resuelve estos problemas. La función básica del STP es evitar bucles en la red cuando los switches se interconectan a través de varias rutas. 
+
+>>>Redundancia en gateway<<<
+
+
+Redundancia del router
+El gateway predeterminado generalmente es el router que proporciona acceso a los dispositivos al resto de la red o Internet.
+
+> Opciones:
+
+Opciones de redundancia de router
+
+
+Protocolo de router de reserva activa (HSRP): el HSRP proporciona alta disponibilidad de red mediante una redundancia de routing de primer salto.
+
+Protocolo de redundancia de router virtual (VRRP): el router de VRRP ejecuta el VRRP junto con uno o más routers conectados a la LAN. 
+
+Protocolo de equilibrio de carga de gateway (GLBP): el GLBP protege el tráfico de datos contra fallas del router o el circuito, como HSRP y VRRP, y permite el equilibrio de carga 
+
+
+>>> Redundancia de la ubicación
+
+Una organización debe considerar la redundancia de la ubicación según sus necesidades. A continuación se describen tres formas de redundancia de la ubicación.
+
+
+
+- Sincroniza ambas ubicaciones en tiempo real.
+Requiere el uso intensivo de ancho de banda.
+Las ubicaciones deben estar juntas para reducir la latencia.
+Replicación asíncrona
+
+- Sincronizada en tiempo casi real.
+Requiere menos ancho de banda.
+Los sitios pueden estar separados porque la latencia no representa un problema.
+Replicación en un punto determinado
+
+- Actualiza la ubicación de los datos de copia de respaldo periódicamente.
+La mayor parte del ancho de banda es conservadora porque no requiere una conexión constante.
+El equilibrio correcto entre el costo y la disponibilidad determinará la opción adecuada para una organización.
+
+
+>>>Recuperacion<<
+
+Diseño de recuperabilidad
+La recuperabilidad son los métodos y las configuraciones utilizados para hacer que un sistema o una red sean tolerantes a las fallas. 
+
+Recuperabilidad de la aplicación
+La recuperabilidad de la aplicación es la capacidad de la aplicación para reaccionar ante los problemas en uno de sus componentes mientras aún funcionan. 
+El tiempo de inactividad se debe a las fallas ocasionadas por los errores de aplicación o a las fallas de la infraestructura. 
+
+
+
+>> Recuperacion de IOS:
+
+Recuperabilidad del IOS
+El sistema operativo interfuncional (IOS) para los routers y switches de Cisco incluye una función de configuración de recuperabilidad.
+
+La función mantiene una copia de funcionamiento segura del archivo de imagen del IOS del router y una copia del archivo de configuración en ejecución.
+ El usuario no puede eliminar estos archivos seguros también conocidos como bootset primario.
+
+R1# conf t 
+R1(config)# secure boot-imagen
+R1(config)# secure boot-config
+R1(config)#exit
+R1# show secure bootset
+
+
+Restaurar> 
+
+1.    reload > Router# reload
+
+2.    dir [filesystem :] >  rommon 1 > dir slot0:
+
+3.    boot [partition-number :][filename] > rommon 2 > boot slot0:c3745-mz
+
+4.    no > dialog answer NO
+
+5.    enable > Router enable 
+
+6.    configure terminal > Router# configure terminal
+
+7.    secure boot-config [restore filename > secure boot-config restore slot0:rescue-cfg
+
+8.    end > Router(config)# end
+
+9.    copy filename running-config > copy slot:rescue-cfg running-config
+
+<<<
+
+>> Conexion SSH a router CISCO<<
+
+ssh -l admin 10.44.1.1
+
+
+>>>>Preparacion a incidentes<<<
+
+Preparación
+La respuesta ante los incidentes es el procedimiento que una organización sigue después de que ocurre un evento fuera del rango normal. Una violación de datos divulga información
+a un entorno poco confiable. 
+
+
+Cuando ocurre un incidente, la organización debe saber cómo responder. Una organización debe desarrollar un plan de respuesta ante los incidentes y constituir un equipo de respuesta
+ante los incidentes de seguridad informática (CSIRT) para administrar la respuesta.
+
+
+>>> Deteccion y analisis de amenazas <<<
+
+
+Detección y análisis
+La detección comienza cuando alguien detecta un incidente.
+
+Informes: 
+
+Alertas y notificaciones.
+
+Supervisión y seguimiento. 
+
+
+>> Recuperacion <<< 
+
+Contención, erradicación y recuperación
+Los esfuerzos de contención incluyen las acciones inmediatas realizadas, por ejemplo, la desconexión de un sistema de la red para evitar una filtración de la información.
+
+Después de identificar la amenaza, la organización debe contenerla y erradicarla. Esto puede requerir tiempo de inactividad adicional para los sistemas. 
+La etapa de recuperación incluye las acciones que una organización debe llevar a cabo para resolver la violación y restaurar los sistemas involucrados. 
+Después de la corrección, la organización debe restaurar todos los sistemas a su estado original antes de la violación.
+
+>>>Seguimiento posterior a los incidentes<<<
+Después de restablecer todas las operaciones al estado normal, la organización debe buscar la causa del incidente y responder las siguientes preguntas:
+
+¿Qué acciones evitarán que vuelva a ocurrir el incidente?
+¿Qué medidas preventivas deben reforzarse?
+¿Cómo puede mejorar el control del sistema?
+¿Cómo puede minimizar el tiempo de inactividad durante las fases de contención, erradicación y recuperación?
+¿Cómo puede la administración minimizar el impacto en el negocio?
+
+>>>COntrol de acceso NAC<<
+
+Control de admisión de redes
+El propósito del control de admisión de redes (NAC) es permitir que los usuarios autorizados con sistemas compatibles accedan a la red. 
+
+El NAC evalúa un dispositivo entrante frente a las políticas de la red. El NAC también coloca en cuarentena los sistemas que no cumplen y administra su corrección.
+
+ Las comprobaciones de los sistemas de NAC comunes incluyen:
+
+1. Detección actualizada de virus.
+
+2. Actualizaciones y parches de los sistemas operativos.
+
+3. Aplicación de contraseñas complejas.
+
+
+>> SIstema de deteccion y prevencion de intrusos<<
+
+Sistemas de detección de intrusiones
+Los sistemas de detección de intrusiones (IDS) supervisan de forma pasiva el tráfico en la red.
+
+Un IPS se basa en la tecnología del IDS. Sin embargo, un dispositivo del IPS opera en el modo en línea. Esto significa que todo el tráfico entrante y saliente debe pasar 
+por éste para su procesamiento.
+
+
+
+>>>> NETFLOW<<<
+
+NetFlow es una tecnología de Cisco IOS que proporciona estadísticas sobre los paquetes que atraviesan un router o switch multicapa de Cisco. 
+NetFlow es el estándar para recopilar datos operativos de las redes. El grupo de trabajo de ingeniería de Internet (IETF) usa NetFlow (versión 9) de Cisco como base
+ para la exportación de datos de flujo de IP (IPFIX).
+ 
+>>> IPFIX
+
+ La IPFIX funciona en los routers y las aplicaciones de administración que admiten el protocolo. Los administradores de red pueden exportar la información de tráfico de red 
+ de un router y utilizar esta información para optimizar el rendimiento de la red.
+ 
+ 
+Protegen la red de amenazas internas y externas.
+Solucionan fallas en la red de manera rápida y precisa.
+Analizan los flujos de red para planificar la capacidad.
+
+Video::: Video: https://video.cisco.com/detail/videos/products/video/2534277650001/cybersecurity-enabled-by-flexible-netflow-in-campus-access
+
+
+>>>>>Amenaza avanzada<<<<
+
+
+Inteligencia de amenazas avanzada
+
+La inteligencia de amenazas avanzada puede ayudar a las organizaciones a detectar ataques antes o durante una de las etapas de ciberataque con la información correcta.
+
+La inteligencia de amenazas avanzada es un tipo de evento o dato de perfil que puede contribuir al monitoreo y la respuesta de la seguridad. A medida que los ciberdelincuentes 
+se vuelven más sofisticados, es importante comprender las maniobras de malware.
+
+>>> Tipos de desastres <<<
+
+Es fundamental mantener la organización en funcionamiento cuando se produce un desastre. 
+
+Desastres naturales
+
+Desastres provocados por el hombre
+
+Los eventos laborales incluyen huelgas, paros y recesiones.
+Los eventos políticos incluyen vandalismo, bloqueos, protestas, sabotaje, terrorismo y guerra.
+Los eventos materiales incluyen derrames e incendios peligrosos.
+Las interrupciones de los servicios incluyen cortes de electricidad, interrupciones en las comunicaciones, escasez de combustible y lluvia radiactiva.
+
+>>> Plan de recuperación tras un desastre <<<<
+
+Una organización pone su plan de recuperación tras un desastre (DRP) en acción mientras el desastre está en curso y los empleados intentan proteger los sistemas críticos en línea.
+El DRP incluye actividades que la organización lleva a cabo para evaluar, recuperar, reparar y restaurar las instalaciones y los activos dañados.
+
+ 
+Para crear el DRP, responda las siguientes preguntas:
+
+¿Quién es responsable de este proceso?
+¿Qué necesita la persona para realizar el proceso?
+¿Dónde realiza la persona el proceso?
+¿Cuál es el proceso?
+¿Por qué es importante el proceso?
+
+
+Un DRP debe identificar qué procesos de la organización son más importantes. Durante el proceso de recuperación, la organización restaura primero sus sistemas críticos.
+
+
+>> Implementación de controles de recuperación tras un desastre <<<
+
+Los controles de recuperación tras un desastre minimizan los efectos de un desastre para garantizar que los recursos y procesos empresariales puedan reanudar la operación
+
+- Las medidas preventivas incluyen controles que impiden que ocurra un desastre. Estas medidas buscan identificar los riesgos.
+- Las medidas de detección incluyen controles que detectan eventos no deseados. Estas medidas descubren nuevas posibles amenazas.
+- Las medidas correctivas incluyen controles que restauran el sistema después de un evento o desastre.
+
+
+Controles preventivos:
+
+Mantener copias de respaldo de datos.
+Mantener las copias de respaldo de datos fuera del sitio.
+Usar protectores contra sobrevoltaje.
+Instalar generadores. 
+
+Controles correctivos:
+
+Mantener los documentos fundamentales del plan de recuperacion de desastres.
+
+Control de deteccion:
+
+Uso de software antivirus actualizado.
+Instalacion de software de monitoreo de servidor y de red.
+
+>>> Necesidad de la continuidad de los negocios<<<<
+
+La continuidad de los negocios es uno de los conceptos más importantes de la seguridad informática. Por más que las empresas hagan lo que esté a su alcance 
+para evitar desastres y pérdidas de datos.
+
+>>> Consideraciones de la continuidad de los negocios
+Los controles de continuidad de los negocios son mucho más que una simple copia de respaldo de los datos y redundancia del hardware.
+
+
+Una organización debe tener en cuenta lo siguiente:
+
+La colocación de las personas adecuadas en los lugares correctos.
+La configuración de la documentación.
+El establecimiento de canales de comunicación alternativos de voz y datos.
+El suministro eléctrico.
+La identificación de todas las dependencias para las aplicaciones y los procesos para su correcta comprensión.
+La comprensión de cómo realizar las tareas automatizadas manualmente.
+
+Mejores prácticas de la continuidad de los negocios
+
+1. Desarrollar la declacracion de politicas> Escribir una política que brinde orientación para desarrollar un plan de continuidad empresarial y asigne roles para realizar las tareas.
+
+2. Impulsar el analisis del impacto comercial> Identificar los procesos y sistemas críticos y darles prioridad según sea necesario.
+
+3. Calcular el riesgo> Identificar vulnerabilidades, amenazas y calcular riesgos.
+
+4. Identificar los controles preventivos> Identificar e implementar controles y contramedidas para reducir el riesgo.
+
+5. Desarrollar las estrategias de recuperacion > Elaborar métodos para recuperar rápidamente los sistemas críticos.
+
+6. Desarrollar el plan alternativo> Escribir procedimientos para mantener la organización en funcionamiento durante un estado caótico.
+
+7. Probar el plan.
+
+8. Mantener el plan> Actualizar el plan regularmente.
+
+
+
+>>>>> Proteccion de infraestructura y sistemas <<<<<<
+
+
+>>Proteccion de Sistemas operativos>>
+
+Microsoft Baseline Security Analyzer (MBSA)
+
+- Actualizacion de seguridad faltantes.
+- Cuentas de administrador.
+- Contraseñas en blanco ,simple e inexistentes.
+- Configuracion de firewall.
+- Configuracion incorrecta de seguridad. 
+- Configuracion de registro.
+- Servicios inecesarios.
+- Intercambios de red. 
+- Auditoria de eventos de Seguridad. 
+- Estado de las cuentas de usuarios temporales.
+
+>>>Proteccion contra malware<<<<
+
+- Protección antivirus: El programa monitorea continuamente en busca de virus. Cuando detecta un virus, el programa advierte al usuario e intenta poner
+en cuarentena o eliminar el virus.
+
+- Protección contra adware: El programa busca continuamente programas que muestren anuncios publicitarios en la computadora.
+
+- Protección contra la suplantación de identidad: El programa bloquea las direcciones IP de sitios web conocidos que realizan la suplantación de identidad y 
+avisa al usuario acerca de los sitios sospechosos.
+
+-Protección contra spyware: El programa busca registradores de teclado y otro tipo de spyware.
+
+- Fuentes confiables y no confiables: el programa advierte al usuario sobre programas inseguros que intentan instalarse o sitios web inseguros antes de que un usuario los visite.
+
+>>>Administración de parches<<<<
+
+Los administradores pueden aprobar o rechazar las actualizaciones.
+Los administradores pueden imponer la actualización de los sistemas para una fecha específica.
+Los administradores pueden obtener informes sobre la actualización necesaria para cada sistema.
+No es necesario conectar todas las computadoras al servicio del proveedor para descargar parches; un sistema obtiene la actualización de un servidor local.
+Los usuarios no pueden desactivar ni eludir las actualizaciones.
+El servicio de parches automatizado proporciona a los administradores una configuración más controlada.
+
+
+>>>>Firewalls basados en el host y sistemas de detección de intrusiones<<<<<
+
+> Firewalls basados en el host
+
+Un firewall de software es un programa que se ejecuta en una computadora para permitir o impedir el tráfico entre la computadora y otras computadoras conectadas. 
+El firewall de software aplica un conjunto de reglas a las transmisiones de datos mediante la inspección y el filtrado de paquetes de datos. 
+
+> Sistemas de detección de intrusiones basado en el host
+
+Un sistema de detección de intrusiones basado en el host (HIDS) es un software que se ejecuta en una computadora host para monitorear la actividad sospechosa. 
+Cada servidor o sistema de escritorio que exige protección debe contar con el software instalado
+
+> Comunicaciones seguras
+
+Una VPN es una red privada que conecta sitios o usuarios remotos a través de una red pública, como Internet. El tipo más común de VPN accede a una red privada corporativa.
+
+
+> Auditoria de linux 
+
+Instalar Lynis:
+
+apt-get install lynis
+
+uso del comando # lynis audit system
+
+
+otros comandos> 
+
+lynis update info
+
+lynis --auditor root
+
+
+>> Proteccion en redes inalambricas<<
+
+Autenticación mutua
+Una de las grandes vulnerabilidades de las redes inalámbricas es el uso de puntos de acceso falsos. Los puntos de acceso son dispositivos que se comunican con los dispositivos 
+inalámbricos y se conectan a la red cableada. 
+
+
+>>Control de acceso a los archivos<<
+
+Los permisos son las reglas configuradas para limitar el acceso a una carpeta o un archivo a una persona o un grupo de usuarios. La figura enumera los permisos que están 
+disponibles para archivos y carpetas.
+
+Principio de privilegios mínimos
+
+Debe limitarse el acceso de los usuarios únicamente a los recursos que necesitan de un sistema informático o una red.
+
+Restricción de los permisos de usuario
+
+Si un administrador deniega los permisos a un intercambio de red para una persona o un grupo, esta denegación anula cualquier otra configuración de permisos.
+
+Además, la ubicación de los datos y la acción realizada en los datos determinan la propagación de los permisos:
+
+Los datos que se transmiten al mismo volumen mantienen los permisos originales.
+Los datos que se copian en el mismo volumen heredan los nuevos permisos.
+Los datos que se transfieren a otro volumen heredan los nuevos permisos.
+Los datos que se copian en otro volumen heredan los nuevos permisos.
+
+
+>> Cifrado <<<
+
+Encriptación de archivos
+La encriptación es una herramienta que se usa para proteger datos. La encriptación transforma los datos con un algoritmo complicado para que no puedan leerse. 
+Una clave especial transforma la información ilegible en información legible. 
+
+Bitlocker>
+
+
+Un usuario también puede elegir cifrar una unidad de disco duro completa en Windows con una función denominada BitLocker.
+
+>>> Sistema y copias de respaldo de datos  <<<
+
+Las copias de respaldo de datos almacenan una copia de la información de una computadora en medios de copia de respaldo extraíbles.
+ El operador almacena los medios de copia de respaldo en un lugar seguro. La realización de copias de respaldo de datos es uno de los métodos más eficaces para evitar 
+ la pérdida de estos. Si el hardware de la computadora falla, el usuario puede restaurar los datos de la copia de respaldo una vez que el sistema sea funcional.
+
+Las siguientes son algunas consideraciones para las copias de respaldo de datos:
+
+-Frecuencia: La realización de copias de respaldo puede llevar mucho tiempo.
+
+- Almacenamiento: Para mayor seguridad, las copias de respaldo se deben trasladar a una ubicación de almacenamiento externa diariamente, semanalmente o mensualmente,
+según lo exija la política de seguridad.
+
+- Seguridad: proteja las copias de respaldo con contraseñas. El operador debe ingresar la contraseña antes de restaurar los datos de los medios de copia de respaldo.
+
+- Validación: Siempre deben validarse las copias de respaldo para garantizar la integridad de los datos.
+
+
+>>> Bloqueo y filtración de contenido <<<<
+
+Un administrador puede implementar los siguientes tipos de filtros:
+
+Filtros basados en el navegador mediante una extensión de navegador de terceros.
+Filtros de correo electrónico mediante un filtro basado en el servidor o cliente.
+Filtros del lado del cliente instalados en una computadora específica.
+Filtros de contenido basados en el router que bloquean el ingreso de tráfico en la red.
+Filtros de contenido basados en dispositivos similares a los basados en el router.
+Filtros de contenido basados en la nube.
+
+
+>>> Congelamiento y clonación de discos <<<
+
+Hay muchas aplicaciones de terceros disponibles para restaurar un sistema al estado predeterminado.
+Esto permite que el administrador proteja el sistema operativo y los archivos de configuración de un sistema.
+
+El administrador puede utilizar la imagen clonada de la siguiente manera:
+
+Para limpiar automáticamente un sistema y restaurar la imagen principal limpia.
+Para implementar nuevas computadoras dentro de la organización.
+Para proporcionar una copia de respaldo del sistema completa.
+
+Comparacion de desarrollo de imagenes> https://en.wikipedia.org/wiki/Comparison_of_disk_cloning_software
+
+>>>Cerraduras y cables de seguridad<<<
+
+Existen varios métodos para proteger físicamente los equipos informáticos:
+
+- Utilizar seguros de cables en los equipos
+- Mantener cerradas las salas de telecomunicaciones.
+- Utilizar jaulas de seguridad alrededor de los equipos.
+
+
+>>> Temporizadores de cierre de sesión<<<
+
+Tiempo de espera de inactividad y bloqueo de pantalla
+
+Los empleados pueden o no cerrar sesión de sus computadoras cuando dejan el lugar de trabajo.
+
+Horario de inicio de sesión
+
+En algunas situaciones, una organización puede desear que los empleados inicien sesión durante horas específicas, como de 7 a. m. a 6 p. m. 
+El sistema bloquea los inicios de sesión en el horario fuera de las horas de inicio de sesión permitidas.
+
+
+>>Seguimiento por GPS<<
+
+El sistema de posicionamiento global (GPS) utiliza satélites y computadoras para determinar la ubicación de un dispositivo. 
+La tecnología del GPS es una característica estándar en los smartphones que proporciona seguimiento de la posición en tiempo real.
+
+
+>>> Inventario y etiquetas de RFID <<< 
+
+La identificación por radiofrecuencia (RFID) utiliza ondas de radio para identificar y rastrear objetos. Los sistemas de inventario de RFID usan etiquetas adjuntas 
+a todos los elementos que una organización desea rastrear. 
+
+La RFID puede ayudar a automatizar el seguimiento de los activos o bloquear, desbloquear o configurar inalámbricamente los dispositivos electrónicos.
+
+
+>>> Administración del acceso remoto<<<<
+
+El acceso remoto se refiere a cualquier combinación de hardware y software que permite a los usuarios acceder a una red interna local de manera remota.
+
+Proceso de instalación de Windows no activa el escritorio remoto de manera predeterminada. Al habilitar esta función, se abre el puerto 3389, 
+lo que puede ocasionar una vulnerabilidad si un usuario no necesita este servicio.
+
+
+
+>>>>Protección de puertos y servicios<<<<< 
+
+
+Los ciberdelincuentes atacan los servicios que se ejecutan en un sistema porque saben que la mayoría de los dispositivos ejecuta más servicios o programas que los necesarios.
+ Un administrador debe observar cada servicio para comprobar su necesidad y evaluar el riesgo. Elimine cualquier servicio innecesario.
+
+Un método simple que muchos administradores usan para contribuir a la seguridad de la red ante accesos no autorizados es la inhabilitación de todos los puertos del switch 
+que no se utilizan. Por ejemplo, si un switch tiene 24 puertos y hay tres conexiones Fast Ethernet en uso, es aconsejable inhabilitar los 21 puertos que no se utilizan.
+
+
+>>>Cuentas privilegiadas<<<
+
+Los ciberdelincuentes atacan las cuentas privilegiadas porque son las más poderosas dentro de la organización. Las cuentas privilegiadas tienen credenciales para 
+acceder a los sistemas y brindan acceso elevado sin restricción.
+
+
+La organización debe adoptar las siguientes mejores prácticas para proteger las cuentas privilegiadas:
+
+Identificar y reducir la cantidad de cuentas privilegiadas.
+Aplicar el principio de privilegios mínimos.
+Establecer un proceso para la revocación de derechos cuando los empleados dejan o cambian de trabajo.
+Eliminar las cuentas compartidas con contraseñas que no caducan.
+Proteger el almacenamiento de contraseñas.
+Eliminar las credenciales compartidas entre varios administradores.
+Cambiar automáticamente las contraseñas de la cuenta privilegiada cada 30 o 60 días.
+Registrar las sesiones privilegiadas.
+Implementar un proceso para cambiar las contraseñas integradas para los scripts y las cuentas de servicio.
+Registrar toda la actividad del usuario.
+Generar las alertas para comportamientos inusuales.
+Deshabilitar las cuentas privilegiadas inactivas.
+Usar la autenticación de varios factores para todo el acceso administrativo.
+Implementar un gateway entre el usuario final y los activos confidenciales para limitar la exposición de la red al malware.
+
+- Cuentas administrativas locales. > Proporciona acceso sin restrincciones al host local.
+- Cuentas de usuario con privilegios.> Credenciales que otorga privilegios administrativos en uno o mas sistemas.
+- Cuentas administrativas de dominio.> Proporciona el acceso administrativo con privilegios a las estaciones de trabajo 
+y a los servidores en un dominio de Windows. 
+- Cuentas de emergencias. > Proporciona el acceso administrativo del usuario sin privilegios para proteger el sistema.
+Se utilizan en caso de emergencia.
+- Cuentas de servicios. > Una aplicacion o un servicio las utiliza para interactuar con el sistema operativo.
+Puede tener privilegios administrativos del dominio.
+Los cambios de la contraseña son un desafio ya que estas cuentas interactuan con muchos componentes de windows.
+- Cuentas de aplicaciones. >
+
+Las aplicaciones utilizan cuentas para acceder a las bases de datos, ejecutar scripts o brindar acceso a otras aplicaciones.
+
+>> Políticas de grupo (Active Directory) <<<
+En la mayoría de las redes que usan computadoras Windows, un administrador configura Active Directory con dominios en Windows Server. 
+Las computadoras con Windows son miembros de un dominio. El administrador configura una directiva de seguridad de dominio que se aplica a todas las computadoras que se unan.
+
+Cuando una computadora no es parte de un dominio de Active Directory, el usuario configura las políticas a través de la política de seguridad local de Windows.
+
+En windows > Run > secpol.msc // para ver las politicas de seguridad local. 
+
+>>> Habilitación de registros y alertas <<<
+
+Un registro registra todos los eventos a medida que ocurren. Las entradas de registro conforman el archivo de registro y contienen toda la información relacionada 
+con un evento específico. Los registros relacionados con la seguridad informática han crecido en importancia.
+
+La administración de registros determina el proceso para generar, transmitir, almacenar, analizar y eliminar datos de registro de seguridad informática.
+ 
+>>> Energia <<
+
+Alimentación
+Un aspecto crítico de la protección de los sistemas de información son los sistemas y las consideraciones de energía eléctrica. 
+El suministro constante de electricidad es fundamental en las actuales instalaciones de almacenamiento de datos y servidores masivos.  
+
+
+- Los centros de datos deben estar en una fuente de alimentación distinta al resto del edificio.
+- Fuentes de alimentación redundantes: dos o más fuentes que provienen de dos o más subestaciones eléctricas.
+- Acondicionamiento de la energía.
+- Con frecuencia se requieren sistemas energéticos de respaldo.
+- Debe contarse con un UPS para apagar satisfactoriamente los sistemas.
+
+
+Una organización debe protegerse contra varios problemas al diseñar sus sistemas de fuente de alimentación eléctrica.
+
+Exceso de energía.
+
+Sobre voltaje: Alto voltaje momentáneo.
+Explosión: Alto voltaje prolongado.
+Pérdida de energía.
+
+Falla: Pérdida de energía momentánea.
+Apagón: Pérdida de energía completa.
+Degradación de energía.
+
+Holgura/caída: Bajo voltaje momentáneo.
+Apagón: Bajo voltaje prolongado.
+Corriente de irrupción: sobre voltaje inicial de energía.
+
+>>>> Calefacción, ventilación y aire acondicionado (HVAC) <<<<<
+
+
+Los sistemas de HVAC son fundamentales para la seguridad de las personas y los sistemas de información en las instalaciones de la organización. 
+Al diseñar instalaciones de TI modernas, estos sistemas juegan un papel importante en la seguridad general. Los sistemas de HVAC controlan el entorno ambiental 
+(temperatura, humedad, flujo de aire y filtración de aire) y deben planificarse y operarse junto a otros componentes de centros de datos, como hardware informático, 
+cableado, almacenamiento de datos, protección contra incendios, sistemas de seguridad física y energía.
+
+
+>>>Supervicion del hardware<<<<<
+
+Los sistemas de control de hardware se utilizan para monitorear el estado de dichos sistemas y minimizar el tiempo de inactividad de la aplicación y el servidor.
+ Los sistemas de control de hardware modernos utilizan los puertos de red y USB para transmitir la condición de temperatura de la CPU, el estado de la fuente de alimentación,
+ la velocidad y la temperatura del ventilador, el estado de la memoria, el espacio en disco y el estado de la tarjeta de red.
+
+ 
+ 
+ 
+>>>>Centros de operaciones NOC<<<<<<
+
+
+El Centro de Operaciones de Red (NOC) se compone de una o más ubicaciones que contienen las herramientas que proporcionan a los administradores un estado detallado de la red
+de una organización. El NOC es el punto cero de la solución de problemas, la supervisión del rendimiento, la distribución de software y actualizaciones, 
+la administración de comunicaciones y la administración de dispositivos.
+
+
+El Centro de Operaciones de Seguridad (SOC) es un sitio dedicado que supervisa, evalúa y protege los sistemas de información de la organización, como sitios web, aplicaciones, 
+bases de datos, centros de datos, redes, servidores y sistemas de usuario. Un SOC es un equipo de expertos en seguridad que detectan, analizan, responden, informan y 
+evitan incidentes de ciberseguridad.
+
+El primer nivel administra todos los eventos e incluye cualquier evento que no pueda administrarse en el segundo nivel. El personal del segundo nivel revisa el evento en detalle para intentar resolverlo. 
+Si no pueden hacerlo, pasan el evento al tercer nivel, el de los expertos en la materia.
+
+Un ejercicio de simulación de tablero es un recorrido estructurado de un equipo para simular un evento y evaluar la eficacia del centro. 
+Una medida más eficaz es simular una intrusión hecha y derecha sin advertencia. Esto supone el uso de un equipo rojo, un grupo independiente de personas que desafía 
+los procesos en una organización para evaluar su eficacia. 
+
+>>>>> Seguridad en redes<<<<
+
+Los dispositivos de red se envían sin contraseñas o con contraseñas predeterminadas. Cambie las contraseñas predeterminadas antes de conectar un dispositivo a la red. 
+
+> Switches
+
+Los switches de red son el corazón de la red de comunicación de datos moderna. Las principales amenazas para los switches de red son el robo, el hacking y el acceso remoto,
+los ataques contra los protocolos de red, como ARP/STP, o los ataques contra el rendimiento y la disponibilidad.
+
+Varias contramedidas y controles pueden proteger los switches de red, incluidas la seguridad física mejorada, la configuración avanzada y la implementación de actualizaciones 
+y parches adecuados del sistema según sea necesario. Otro control eficaz es la implementación de la seguridad de los puertos. Un administrador debe proteger todos los puertos 
+de switch (interfaces) antes de implementar el switch para fines de producción. Una forma de proteger los puertos es mediante la implementación de una característica denominada 
+“seguridad de puertos”. La seguridad de puertos limita la cantidad de direcciones MAC válidas permitidas en el puerto. El switch permite el acceso a dispositivos con direcciones
+ MAC legítimas y rechaza otras direcciones MAC.
+ 
+> VLAN
+
+Las VLAN ofrecen una forma de agrupar dispositivos dentro de una LAN y en switches individuales. Las VLAN usan conexiones lógicas en lugar de conexiones físicas. 
+Los puertos individuales de switch pueden asignarse a una VLAN específica. Se pueden usar otros puertos para interconectar físicamente los switches y permitir el tráfico
+de varias VLAN entre los switches. Estos puertos se denominan enlaces troncales.
+ 
+Existen varios tipos de vulnerabilidades y ataques de VLAN diferentes. Estos pueden incluir ataques a los protocolos de los enlaces troncales y la VLAN. Los detalles de estos 
+ataques están más allá del alcance de este curso. Los hackers también pueden atacar el rendimiento y la disponibilidad de la VLAN. Las contramedidas comunes incluyen el monitoreo
+de los cambios y el rendimiento de la VLAN, las configuraciones avanzadas, y los parches y las actualizaciones regulares del sistema para el IOS.
+
+>  Firewalls
+
+Los firewalls son soluciones de hardware o de software que aplican las políticas de seguridad de la red.
+
+Un firewall simple proporciona funcionalidades básicas de filtrado de tráfico mediante listas de control de acceso (ACL). 
+
+Los firewalls mantienen los ataques alejados de la red privada; un objetivo común de los hackers es vencer las protecciones del firewall. 
+Las principales amenazas para los firewalls son el robo, el hacking y el acceso remoto, los ataques contra las ACL o los ataques contra el rendimiento y la disponibilidad. 
+
+> Routers
+
+Los routers forman la red troncal de Internet y las comunicaciones entre las diferentes redes.
+
+Las principales amenazas para los routers de red son el robo, el hacking y el acceso remoto, los ataques contra los protocolo de routing, como RIP/OSPF, o los ataques contra 
+el rendimiento y la disponibilidad.
+
+Varias contramedidas y controles pueden proteger los routers de red, entre ellos, la seguridad física mejorada, la configuración avanzada, el uso de protocolos de routing seguros con autenticación, y la implementación de actualizaciones y parches adecuados del sistema según sea necesario.
+
+>> Redes inalambricas<<
+
+Dispositivos móviles e inalámbricos
+Los dispositivos móviles e inalámbricos se han convertido en el tipo de dispositivo predominante en la mayoría de las redes modernas.
+
+vulnerabilidades incluyen el robo, el hacking y el acceso remoto no autorizado, el espionaje, los ataques de intermediarios, y los ataques contra el rendimiento y la disponibilidad.
+
+La mejor manera de proteger una red inalámbrica es utilizar la autenticación y el cifrado.
+
+>>>>  Servicios de routing y red <<<
+
+Los ciberdelincuentes usan servicios de red vulnerables para atacar un dispositivo o usarlo como parte del ataque. Para verificar si existen servicios de red inseguros, 
+revise el dispositivo y busque puertos abiertos mediante un escáner de puertos.
+
+> Protocolo de configuración dinámica de host (DHCP)
+
+El DHCP usa un servidor para asignar una dirección IP y otra información de configuración automáticamente a los dispositivos de red.
+
+Los atacantes pueden apuntar a los servidores del DHCP para denegar el acceso a los dispositivos en la red.
+
+Verificacion de seguridad:
+
+- Asegurar fisicamente el servidor DHCP.
+- Aplicar parches.
+- Ubicar el servidor DHCP detras de un firewall.
+- Supervisar la actividad del servidor DHCP al revisar los registros.
+- Mantener una solucion de antivirus seguro.
+- Desinstalar los servicios y las aplicaciones sin usar. 
+- cerrar los puertos sin usar.
+
+
+
+> Sistema de nombres de dominio (DNS)
+
+El DNS resuelve una dirección de sitio web o URL de localizador de recursos uniforme (http://www.cisco.com) para la dirección IP del sitio. 
+
+Los atacantes apuntan a los servidores del DNS para denegar el acceso a los recursos de la red o redirigir el tráfico a sitios web falsos. 
+
+verificacion de Seguridad DNS>
+
+- Actualizacion del software.
+- Evitar que la cadena de versiones revele informacion.
+- Seperar los servidores DNS internos de los externos.
+- Restringir las transacciones permitidas por la direccion IP del cliente.
+- Utilizar la firma de las trasacciones para autenticar las transacciones.
+- Deshabilitar o restringir las transferencias y las actualizaciones dinamicas de zona tanto como sea posible.
+- Habilitar el registro y analizar los registros.
+- Utilizar las extensiones de seguridad del sistema de nombres de dominio (DNSSEC).
+- Registrar las zonas. 
+
+
+> Protocolo de mensajes de control de Internet (ICMP)
+
+Los dispositivos de red usan ICMP para enviar mensajes de error, como un servicio solicitado que no está disponible o un host que no puede llegar a un router.
+
+Los ciberdelincuentes pueden alterar el uso de ICMP para los fines maliciosos:
+
+- Reconocimiento: 
+
+Host a los que se accede desde internet.
+Topologia de la red. 
+LOs dispositivos de filtrados de ACL que utiliza el host.
+Los protocolos que el host esta utilizando.
+El sistema operativo que se ejecuta en el hsot.
+
+- Denegacion de Servicios:
+
+Envio de mensajes ICMP a un objetivo que tiene gran tamaño y puede colapsar al host
+ya que no sabe como manejar estos mensajes.
+
+Al enviar al objetivo una gran cantidad de mensajes ICMP fragmentados de manera identica 
+lo que hace que el host deje de responder. 
+
+Se desborda al objetivo con muchos mensajes de ICMP que degradaran el rendimiento del host 
+y de la red.
+
+- Canal secreto:
+
+Muchos firewalls y redes permiten la circulacion del trafico de ping.
+
+El uso del trafico de ping puede abrir un canal secreto que permite la transferencia de objetos de informacion a traves de canales o redes de informacion existentes.
+
+Transporta datos en pequeñas partes lo que practicamente resulta imperceptible para los administradores.
+
+> Protocolo de informacion de enrutamiento (RIP)
+
+El RIP limita la cantidad de saltos permitida en una ruta en una red desde el dispositivo de origen hasta el destino. 
+
+Vulnerabilidades:
+
+- Publicita informacion de routing falsa.
+- Reclama una ruta a un host no utilizado (suplantacion de identidad).
+- Reclama una ruta a un host activo para atraer el trafico para su inspeccion o alteracion.
+- Compromete protocolos de autenticacion basados en direcciones.
+
+Defenzas:
+
+- Filtar paquetes en el gateway segun la direccion de origen y destino.
+- Verificar las rutas antes de aceptarlas.
+- Autenticar el paquete de RIP.
+- Revisar los registros.
+
+> Protocolo de tiempo de red (NTP)
+
+Es importante tener la hora correcta dentro de las redes. Las marcas de tiempo correctas hacen un seguimiento preciso de los eventos de red
+
+
+El protocolo de tiempo de red (NTP) es un protocolo que sincroniza los relojes de los sistemas informáticos sobre las redes de datos. 
+
+ Los ciberdelincuentes atacan los servidores de tiempo para interrumpir la comunicación segura que depende de certificados digitales y ocultar la información del ataque, como marcas de tiempo precisas.
+ 
+Metodos seguros para proporcionar sincronizacion>
+
+- Obtener informacion de fecha y hora de una unica fuente para proporcionar configuraciones horarias uniformes.
+- Implementar relojes maestros de red privada. 
+- Sincronizar el reloj maestro a la hora universal coordinada (UTC) mediante el uso de satelites o radios.
+- Utilizar la autenticacion de NTP de cada dispositivo para evitar que los delincuentes ciberneticos accedan a la referencia horaria de la red. 
+
+>>> Equipos de VoIP <<<<<<
+
+La voz sobre IP (VoIP) utiliza redes, como Internet, para realizar y recibir llamadas telefónicas. El equipo requerido para VoIP incluye una conexión a Internet y un teléfono.
+
+
+La seguridad de VoIP es tan confiable como la seguridad de red subyacente. Los ciberdelincuentes apuntan a estos sistemas para obtener acceso para liberar servicios telefónicos,
+escuchar llamadas telefónicas o afectar el rendimiento y la disponibilidad.
+
+Medidas de proteccion> 
+
+- Cifre los paquetes de mensajes de voz para protegerlos de las infiltraciones.
+- Utilice el SSH para proteger los gateways y switches.
+- Cambie las contraseñas predeterminadas.
+- Utilice un sistema de detección de intrusiones para detectar ataques, como el envenenamiento del ARP.
+- Utilice la autenticación sólida para mitigar la suplantación de registros (los ciberdelincuentes enrutan todas las llamadas entrantes de la víctima hacia ellos), 
+la suplantación del proxy (engaña a la víctima para que se comunique con un proxy falso establecido por los ciberdelincuentes) y la usurpación de llamadas (la llamada se 
+intercepta y redirige a una ruta diferente antes de que llegue al destino).'
+- Implemente firewalls que reconozcan la VoIP para monitorear las transmisiones y filtrar las señales anormales.
+
+>> Cámaras <<
+Una cámara de Internet envía y recibe datos a través de una LAN o Internet. Un usuario puede ver de forma remota video en vivo con un explorador web en una amplia variedad
+ de dispositivos, entre ellos, sistemas informáticos, PC portátiles, tablets y smartphones.
+
+Mejores practicas:
+
+- Utilice contraseñas seguras para las camaras. 
+- No conecte los servidores sin proteccion que proporciona acceso remoto.
+- Implemente un firewall para proteger los dispositivos que proporciona el acceso remoto.
+- Coloque la camara de seguridad en una red separada fisicamente. 
+- Realice el seguimiento y monitoree las vulnerabilidades del sistema operativo y aplique los parches requeridos.
+- Establezca una contraseña segura para el sistema operativo.
+- Seleccione solo a los proveedores que cifran sus conexiones. 
+- cifre videos en transito y en reposo. 
+- Utilice las mismas precauciones de acceso movil.
+- Proteja el acceso fisico a los equipos. 
+
+>> Equipo de videoconferencia <<<
+
+La videoconferencia permite que dos o más ubicaciones se comuniquen de forma simultánea mediante tecnologías de telecomunicación.
+
+Los ciberdelincuentes apuntan a estos sistemas para infiltrarse en las videollamadas o afectar el rendimiento y la disponibilidad.
+
+>>> Red y sensores de IdC (internent de las cosas) <<<
+Uno de los sectores más rápidos de la tecnología de la información es el uso de sensores y dispositivos inteligentes. La industria informática lidera este sector como Internet 
+de las cosas (IdC). Las empresas y los consumidores usan dispositivos de IdC para automatizar procesos, supervisar condiciones del entorno y alertar a los usuarios acerca de 
+condiciones adversas. 
+
+El sector de IdC representa un enorme desafío para los profesionales de seguridad de la información porque muchos dispositivos de IdC capturan y transmiten información confidencial. 
+Los ciberdelincuentes apuntan a estos sistemas para interceptar los datos o afectar el rendimiento y la disponibilidad.
+ 
+>>> Segrudiad fisica<<<
+
+
+Cercas y barricadas
+Las barreras físicas son lo primero que viene a la mente cuando se piensa en la seguridad física. Este es el nivel más remoto de seguridad y estas soluciones son las más visibles públicamente. 
+
+Un sistema de cerca perimetral.
+Un sistema de puerta de seguridad.
+Bolardos (pequeños postes utilizados para protegerse contra intrusiones de vehículos)
+Barreras de entrada de vehículos.
+Refugios de protección.
+ 
+Una cerca es una barrera que comprende áreas seguras y designa límites de la propiedad. 
+
+os sistemas de cercado utilizan las siguientes reglas:
+
+1 metro (3 a 4 pies) solo disuadirán a los intrusos casuales.
+2 metros (6 a 7 pies) son muy altos para escalar para los intrusos casuales.
+2,5 metros (8 pies) ofrecerán una demora limitada a un intruso determinado.
+Las protecciones superiores proporcionan un impedimento adicional y pueden cortar gravemente al intruso; sin embargo, los atacantes pueden utilizar una manta o un colchón
+ para mitigar esta amenaza
+
+No aparque ningún vehículo junto a las cercas. Un vehículo aparcado en las inmediaciones de una cerca puede ayudar al intruso a escalar o dañar la cerca. 
+
+>>>Biometría<<<
+Los datos biométricos describen los métodos automatizados de reconocimiento de una persona en función de una característica fisiológica o conductual.
+ 
+El método más ampliamente utilizado para medir la precisión de la autenticación biométrica es el índice de error de conexión cruzada (CER)
+
+>>Registros de acceso y tarjetas de identificación<<
+
+La tarjeta de identificación de acceso permite que una persona obtenga acceso a un área con puntos de ingreso automatizados. 
+
+>>Guardias y escoltas<<
+
+Todos los controles de acceso físico, incluidos los sistemas de disuasión y detección, dependen en última instancia del personal para intervenir y detener el ataque o 
+la intrusión real.
+
+>> Vigilancia por video y electrónica<<
+
+La vigilancia por video y electrónica complementa o, en algunos casos, reemplaza a los guardias de seguridad. 
+ 
+
+>>Vigilancia inalámbrica e RFID<<
+Administrar y localizar activos de sistemas de información importantes constituyen un desafío clave para la mayoría de las organizaciones. 
+
+ Una organización puede posicionar lectores de RFID en los marcos de las puertas de las áreas seguras de manera tal que no sean visibles para las personas.
+ 
+ Una etiqueta de RFID permitirá al personal escanear la etiqueta sin siquiera verla.
+ 
+>>>> Laboratorio ACL<<<
+
+
+Crear lista de control de acceso>
+
+access-list 101 deny tcp any any eq 80
+access-list 101 permit ip any any
+ip access-group 101 in
+
+>>>>>>>>>>>>>>>>Siete dominios de la infraestructura tecnologica <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+>> Dominio usuario<<
+
+Vulnerabilidades y amenazas comunes a los usuarios
+
+Los usuarios generalmente son el eslabón más débil en los sistemas de seguridad informática y representan una amenaza importante para la confidencialidad, la integridad y 
+la disponibilidad de los datos de la organización.
+
+- Ningún reconocimiento de la seguridad: Los usuarios deben conocer los datos confidenciales, las políticas y los procedimientos de seguridad, las tecnologías y las 
+contramedidas proporcionados para proteger la información y los sistemas de información.
+
+
+- Políticas de seguridad mal aplicadas: Todos los usuarios deben conocer las políticas de seguridad y las consecuencias del cumplimiento de las políticas de la organización.
+
+- Robo de datos: El robo de datos por parte de los usuarios tiene un costo financiero para las organizaciones; Esto genera daños en la reputación de las organizaciones o 
+supone una responsabilidad legal asociada a la divulgación de información confidencial.
+
+- Descargas no autorizadas: Muchas infecciones y ataques a redes y estaciones de trabajo se remontan a los usuarios que descargan correos electrónicos, fotos, música, juegos, 
+aplicaciones, programas y videos no autorizados.
+
+- Medios no autorizados: El uso de medios no autorizados como CD, unidades USB y dispositivos de almacenamiento en red pueden provocar infecciones y ataques de malware.
+
+- VPN no autorizadas: Las VPN pueden ocultar el robo de información no autorizada. La encriptación que normalmente se usa para proteger la confidencialidad no permite que
+ el personal de seguridad de TI vea la transmisión de datos sin la debida autorización.
+
+- Sitios web no autorizados: El acceso a sitios web no autorizados puede representar un riesgo para los datos del usuario, los dispositivos y la organización. Muchos sitios 
+web solicitan a los visitantes que descarguen scripts o complementos que contienen código malicioso o adware.
+
+- Destrucción de sistemas, aplicaciones o datos: La destrucción accidental o deliberada; O el sabotaje de sistemas, aplicaciones y datos supone un gran riesgo para todas las organizaciones.
+
+>> Manejo de las amenazas a los usuarios
+
+Las organizaciones pueden implementar diversas medidas para manejar las amenazas a los usuarios:
+
+- Realizar capacitaciones de reconocimiento de seguridad mostrando carteles de reconocimiento de seguridad, insertando recordatorios en anuncios de saludo y enviando recordatorios por correo electrónico a los empleados.
+- Educar a los usuarios anualmente sobre las políticas, los manuales de personal y las actualizaciones de guías.
+- Vincular el reconocimiento de seguridad con los objetivos de revisión del rendimiento.
+- Habilitar la detección del antivirus y el filtrado de contenido para los archivos adjuntos por correo electrónico.
+- Utilizar el filtrado de contenido para aceptar o rechazar nombres de dominio específicos conforme a las políticas de uso aceptable (AUP).
+- Deshabilitar los puertos USB y las unidades de CD internas.
+- Habilitar el análisis antivirus automático para medios insertados, archivos y adjuntos por correo electrónico.
+- Restringir el acceso a los usuarios a solo aquellos sistemas, aplicaciones y datos necesarios para realizar el trabajo.
+- Minimizar los permisos de escritura/eliminación del propietario de datos únicamente.
+- Seguir y controlar el comportamiento anormal de los empleados, el rendimiento laboral errático y el uso de la infraestructura de TI en horarios no laborales.
+- Implementar procedimientos de bloqueo del control de acceso basados en el monitoreo y el cumplimiento de las AUP.
+- Habilitar el sistema de detección de intrusiones y el sistema de prevención de intrusiones (IDS/IPS) que monitorean los accesos y puestos confidenciales de los empleados.
+
+>>> Dominio: El dispositivo<<<
+
+Amenazas comunes a los dispositivos
+
+Un dispositivo es cualquier computadora de escritorio, PC portátil, tablet o smartphone que se conecta a la red.
+
+Las siguientes son amenazas a los dispositivos:
+
+- Estaciones de trabajo desatendidas: Las estaciones de trabajo que se dejan encendidas y desatendidas representan un riesgo de acceso no autorizado a los recursos de la red.
+- Descargas del usuario: Los archivos, las fotos, la música o los videos descargados pueden ser un vehículo para el código malicioso.
+- Software sin parches: las vulnerabilidades en la seguridad del software ofrecen debilidades que los cibercriminales pueden aprovechar.
+- Malware: Nuevos virus, gusanos y otros códigos maliciosos salen a luz diariamente.
+- Medios no autorizados: Los usuarios que insertan unidades USB, CD o DVD pueden introducir malware o correr el riesgo de comprometer los datos almacenados en la estación de trabajo.
+- Violación de la política de uso aceptable: Las políticas existen para proteger la infraestructura de TI de la organización.
+
+Manejo de las amenazas a los dispositivos
+Las organizaciones pueden implementar diversas medidas para manejar las amenazas a los dispositivos:
+
+- Establecer políticas para los umbrales de bloqueo y protección de contraseñas en todos los dispositivos.
+- Habilitar el bloqueo de la pantalla durante las horas de inactividad.
+- Desactivar los derechos administrativos de los usuarios.
+- Definir pautas, procedimientos, estándares y políticas de control de acceso.
+- Actualizar y corregir todos los sistemas operativos y las aplicaciones de software.
+- Implementar soluciones de antivirus automatizadas que exploren el sistema y actualizar el software antivirus para proporcionar la protección adecuada.
+- Desactivar todos los puertos USB, CD y DVD.
+- Habilitar los análisis de antivirus automáticos para cualquier CD, DVD o unidad USB insertados.
+- Usar el filtrado de contenido.
+- Realizar capacitaciones de reconocimiento de seguridad anuales obligatorias o implementar campañas y programas de concienciación sobre seguridad que se ejecuten durante todo el año.
+
+
+>>>Dominio: LAN Red de area local<<<<
+
+Las siguientes son amenazas a la LAN:
+
+- Acceso a la LAN no autorizado: Los armarios de cableado, los centros de datos y las salas de computación deben permanecer seguras.
+- Acceso no autorizado a sistemas, aplicaciones y datos.
+- Vulnerabilidades de software del sistema operativo de la red.
+- Actualizaciones del sistema operativo de la red.
+- Acceso no autorizado de usuarios dudosos a las redes inalámbricas.
+- Ataques a datos en tránsito.
+- Servidores de LAN con diferentes sistemas operativos o hardware: Administrar y solucionar problemas de los servidores se torna cada vez más difícil con las variadas configuraciones.
+- Escaneo de puertos y sondeo de redes no autorizados.
+- Firewall mal configurado.
+
+Las organizaciones pueden implementar diversas medidas para manejar las amenazas a la red de área local:
+
+- Proteger los armarios de cableado, los centros de datos y las salas informáticas. Denegar el acceso a cualquier persona sin las credenciales adecuadas.
+- Definir pautas, procedimientos, estándares y políticas de control de acceso estrictos.
+- Restringir los privilegios de acceso a determinadas carpetas y archivos en función de la necesidad.
+- Requerir contraseñas o la autenticación para las redes inalámbricas.
+- Implementar la encriptación entre los dispositivos y las redes inalámbricas para mantener la confidencialidad.
+- Implementar estándares de configuración del servidor de la LAN.
+- Realizar pruebas de penetración posterior a la configuración.
+- Deshabilitar el ping y escaneo de puertos.
+
+>>> Dominio nube privada <<<
+
+Amenazas comunes a la nube privada
+
+Las siguientes son amenazas a la nube privada:
+
+- Escaneo de puertos y sondeo de redes no autorizados.
+- Acceso no autorizado a los recursos.
+- Vulnerabilidades de software del sistema operativo del dispositivo de red, firewall o router.
+- Error de configuración del dispositivo de red, firewall o router.
+- Usuarios remotos que acceden a la infraestructura de la organización y descargan datos confidenciales.
+
+Manejo de las amenazas a la nube privada
+
+- Desactivar el ping, el sondeo y el escaneo de puertos.
+- Implementar sistemas de prevención y detección de intrusiones.
+- Supervisar las anomalías del tráfico IP entrante.
+- Actualizar los dispositivos con parches y correcciones de seguridad.
+- Realizar pruebas de penetración posteriores a la configuración.
+- Probar el tráfico entrante y saliente.
+- Implementar un estándar de clasificación de datos.
+- Implementar el escaneo y la supervisión de la transferencia de archivos para los tipos de archivos desconocidos.
+
+>> Amenazas comunes a la nube pública <<<
+
+El dominio de nube pública incluye los servicios alojados por un proveedor de la nube, un proveedor de servicios o un proveedor de Internet. 
+
+Software como servicio (SaaS): un modelo por suscripción que brinda acceso al software alojado de manera centralizada al que los usuarios acceden mediante un navegador web.
+
+Plataforma como servicio (PaaS): proporciona una plataforma que permite que una organización desarrolle, ejecute y administre sus aplicaciones en el hardware del servicio con herramientas provistas por el servicio.
+
+Infraestructura como servicio (IaaS): proporciona recursos de computación virtualizados, como hardware, software, servidores, almacenamiento y otros componentes de infraestructura en Internet.
+
+
+Las siguientes son amenazas a la nube pública:
+
+- Violaciones de datos.
+- Pérdida o robo de propiedad intelectual.
+- Credenciales comprometidas.
+- Los repositorios de identidad federados son un objetivo de gran valor.
+- Secuestro de una cuenta.
+- Falta de comprensión por parte de la organización.
+- Ataques de ingeniería social que atraen a la víctima.
+- Violación del cumplimiento.
+
+Las organizaciones pueden implementar varias medidas para manejar las amenazas a las instalaciones físicas:
+
+- Autenticación de varios factores.
+- Uso de la encriptación.
+- Implementación de contraseñas de un solo uso, autenticación telefónica y tarjetas inteligentes.
+- Aplicaciones y datos de distribución a través de varias zonas.
+- Procedimientos de copia de respaldo de datos.
+- Diligencia debida.
+- Programas de concientización de seguridad.
+- Políticas.
+
+>>> Amenazas comunes a las instalaciones físicas<<
+
+El dominio de instalaciones físicas incluye todos los servicios utilizados por una organización, entre ellos, la HVAC, el agua y la detección de incendios.
+
+Las siguientes son amenazas a las instalaciones de la organización:
+
+- Amenazas naturales, incluidos problemas meteorológicos y riesgos geológicos.
+- Acceso no autorizado a las instalaciones.
+- Interrupciones eléctricas.
+- Ingeniería social para conocer los procedimientos de seguridad y las políticas de la oficina.
+- Violación de las defensas del perímetro electrónico.
+- Robo.
+- Pasillos abiertos que permiten que un visitante camine directamente hacia las instalaciones internas.
+- Centros de datos desbloqueados.
+- Falta de vigilancia.
+
+
+Las organizaciones pueden implementar varias medidas para manejar las amenazas a las instalaciones físicas:
+
+- Implementar el control de acceso y la cobertura de circuito de TV cerrado (CCTV) en todas las entradas.
+- Establecer políticas y procedimientos para los invitados que visitan la instalación.
+- Probar la seguridad en edificios a través de medios cibernéticos y físicos para obtener acceso encubierto.
+- Implementar la encriptación de tarjetas de identificación para el acceso a las entradas.
+- Desarrollar un plan de recuperación tras un desastre.
+- Desarrollar un plan de continuidad empresarial.
+- Realizar capacitaciones de concientización en seguridad periódicamente.
+- Implementar un sistema de etiquetado de activos.
+
+
+>>>Amenazas comunes a las aplicaciones <<<
+
+
+El dominio de aplicación incluye todos los sistemas críticos, las aplicaciones y los datos. Además, incluye hardware y cualquier diseño lógico requeridos.
+
+Las siguientes son amenazas a las aplicaciones:
+
+- Acceso no autorizado a los centros de datos, las salas de computadoras y los armarios de cableado.
+- Tiempo de inactividad del servidor para fines de mantenimiento.
+- Vulnerabilidades de software del sistema operativo de la red.
+- Acceso no autorizado a los sistemas.
+- Pérdida de datos.
+- Tiempo de inactividad de los sistemas de TI durante un largo período.
+- Vulnerabilidades de desarrollo de aplicaciones web o de cliente/servidor.
+
+
+Las organizaciones pueden implementar diversas medidas para manejar las amenazas al dominio de aplicación:
+
+- Implementar políticas, estándares y procedimientos para que el personal y los visitantes se aseguren de que las instalaciones están seguras.
+- Realizar pruebas de software antes del lanzamiento.
+- Implementar estándares de clasificación de datos.
+- Desarrollar una política para abordar las actualizaciones del sistema operativo y el software de aplicaciones.
+- Implementar procedimientos de copia de respaldo.
+- Desarrollar un plan de continuidad empresarial para que las aplicaciones críticas mantengan la disponibilidad de las operaciones.
+- Desarrollar un plan de recuperación tras un desastre para las aplicaciones y los datos críticos.
+- Implementar inicios de sesión.
+
+>>>>>> ETICA<<<<
+
+
+La ética es la pequeña voz en segundo plano que orienta a los especialistas en ciberseguridad sobre qué deben hacer, independientemente de si es legal. 
+
+El principio rector es que cualquier acción en la que el bien supere al mal es una opción ética.
+
+
+El principio rector del enfoque de los derechos es que las personas tienen el derecho de tomar sus propias decisiones.
+Esta perspectiva observa cómo una acción afecta los derechos de otras personas para evaluar si una acción es correcta o incorrecta. Estos derechos incluyen el derecho a la verdad, 
+la privacidad y la seguridad; la sociedad debe aplicar las leyes equitativamente para todos sus miembros.
+
+Enfoque del bien común
+
+El enfoque del bien común propone que el bien común es lo que beneficia a la comunidad. En este caso, un especialista en ciberseguridad observa cómo una acción afecta el bien común 
+de la sociedad o la comunidad.
+
+
+El Instituto de Ética Informática es un recurso que identifica, evalúa y responde a problemas éticos en el sector de la tecnología de la información. El CEI (por sus siglas en inglés)
+
+>> Diez mandamiento de la etica informatica<<<
+
+- No utilizar una computadora para dañar a otras personas.
+- no interferiras con el trabajo en computadora de otra persona.
+- No espiaras los archivos informaticos de otras personas.
+- No utilizaras una computadora para robar. 
+- No utilizaras una computadora para dar falso testimonio.
+- No copiaras , ni utilizaras software de propiedad por el cual no has pagado.
+- No utilizaras los recursos de la computadora de otras personas sin la autorizacion o la compensacion correspondiente.
+- No te adueñaras del resultado intelectual de otras personas.
+- Tendras en cuenta las consecuencias sociales del programa que estas escribiendo o el sistema que estas diseñando.
+- Utilizaras una computadora de manera que garantice la consideracion y el respeto por su projimo.
+
+>>> Delito cibernético<<
+
+Las leyes prohíben los comportamientos no deseados. Desafortunadamente, los avances de las tecnologías del sistema de información son mayores que los avances del sistema
+ legal de avenencia y legislación. Cierta cantidad de leyes y regulaciones afecta el ciberespacio. Varias leyes específicas rigen las políticas y los procedimientos desarrollados
+ por una organización para garantizar su cumplimiento.
+
+Delito cibernético
+
+Una computadora puede verse involucrada en un delito cibernético de diferentes maneras. Puede ser un delito asistido por computadora, un delito dirigido a una computadora o
+ un delito informático incidental. La pornografía infantil es un ejemplo de delito informático incidental; La computadora es un dispositivo de almacenamiento y no es la 
+ herramienta real utilizada para cometer el delito.
+
+El crecimiento del delito cibernético se debe a varios motivos. Hoy en día existen muchas herramientas ampliamente disponibles en Internet y los posibles usuarios no necesitan 
+mucha experiencia para usarlas.
+
+Organizaciones creadas para luchar contra el delito cibernético
+
+Hay una cantidad de agencias y organizaciones que ayudan a combatir el delito cibernético. Haga clic en cada uno de los enlaces en la figura para visitar los sitios web de 
+estas organizaciones que ayudan a mantenerse al día con los problemas importantes.
+
+Enlaces de referencias> 
+
+https://www.ic3.gov/default.aspx
+https://www.infragard.org
+https://www.siia.net/
+https://www.nw3c.org/
+https://www.bja.gov/default.aspx
+
+
+>> Ciberleyes regulatorias, civiles y penales
+
+En los Estados Unidos hay tres fuentes primarias de leyes y regulaciones: leyes estatutarias, leyes administrativas y leyes comunes. 
+
+la Ley de Abuso y Fraude Informático es una ley estatutaria. Administrativamente, la FCC y la Comisión Federal de Comercio se ocupan de problemas tales como el fraude
+ y el robo de la propiedad intelectual. Por último, los casos de leyes comunes resuelven sus problemas a través del sistema judicial que ofrece precedentes y bases constitucionales para las leyes.
+
+Ley Federal de Administración de Seguridad de la Información (FISMA)
+
+El Congreso elaboró la FISMA en 2002 para cambiar el enfoque del gobierno estadounidense respecto de la seguridad informática. 
+
+
+La FISMA se aplica a los sistemas de TI de las agencias federales y estipula que las agencias deben crear un programa de seguridad de la información que incluya lo siguiente:
+
+Evaluación de riesgos
+Inventario anual de los sistemas de TI
+Políticas y procedimientos para reducir el riesgo
+Capacitaciones de concientización en seguridad
+Prueba y evaluación de todos los controles del sistema de TI
+Procedimiento de respuesta ante los incidentes
+Continuidad del plan de operaciones
+
+>>>Leyes específicas del sector<<
+
+Muchas leyes específicas del sector tienen un componente de privacidad o seguridad.
+
+
+>>Ley Gramm-Leach-Bliley (GLBA)
+
+La Ley Gramm-Leach-Bliley es una ley que afecta principalmente el sector financiero. Parte de dicha ley, sin embargo, incluye disposiciones de privacidad para los individuos.
+
+>>Ley Sarbanes-Oxley (SOX)
+
+Después de varios escándalos contables corporativos de alto perfil en los Estados Unidos, el congreso aprobó la Ley Sarbanes-Oxley (SOX). El propósito de la SOX era revisar los
+ estándares contables corporativos y financieros, específicamente los estándares de las firmas públicas comercializadas estadounidenses.
+
+>> Estándar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI DSS)
+
+El sector privado también reconoce la importancia de los estándares uniformes y ejecutables.
+
+El Estándar de Seguridad de Datos para la Industria de Tarjetas de Pago (PCI DSS) es un conjunto de reglas contractuales que rige cómo proteger los datos de las tarjetas de crédito
+ cuando los bancos y los comerciantes intercambian transacciones. El PCI DSS es (en teoría) un estándar voluntario y los comerciantes/proveedores pueden elegir si desean cumplirlo.
+
+>> Restricciones a la importación/exportación de encriptación
+
+Los países pueden decidir si desean restringir la importación de las tecnologías criptográficas por los siguientes motivos:
+
+La tecnología puede contener una puerta trasera o una vulnerabilidad en la seguridad.
+Los ciudadanos pueden comunicarse anónimamente y evitar el monitoreo.
+La criptografía puede aumentar los niveles de privacidad a un nivel aceptable.
+
+>>>>Leyes de notificación de infracciones a la seguridad<<<
+
+Las empresas recopilan cantidades cada vez mayores de información personal sobre sus clientes, desde contraseñas de cuentas y direcciones de correo electrónico hasta 
+información médica y financiera altamente confidencial.
+
+En respuesta a este crecimiento en la recopilación de datos, varias leyes requieren que las organizaciones que recopilan datos de información personal notifiquen a las personas 
+si se produce una violación de sus datos personales.
+
+Security Breach Notification Laws> http://www.ncsl.org/research/telecommunications-and-information-technology/security-breach-notification-laws.aspx
+
+>>Ley de Privacidad de Comunicaciones Electrónicas (ECPA)
+
+La Ley de Privacidad de Comunicaciones Electrónicas (ECPA) aborda una infinidad de cuestiones legales de privacidad que surgen del uso cada vez mayor de computadoras y otras
+ tecnologías específicas para las telecomunicaciones. 
+
+Las secciones de esta ley abordan el correo electrónico, las comunicaciones celulares, la privacidad del lugar de trabajo y el host, entre otros problemas relacionados con la comunicación electrónica.
+
+>>Ley de Abuso y Fraude Informático (1986)
+
+La Ley de Abuso y Fraude Informático (CFAA) ha estado en vigencia por más de 20 años. La CFAA proporciona la base para las leyes estadounidenses que penalizan el acceso no autorizado a los sistemas informáticos. 
+
+> Ley de Privacidad de 1974
+
+Esta ley establece un Código de práctica de información justa que rige la recopilación, el mantenimiento, el uso y la transmisión de la información de identificación personal
+ de los individuos conservada en sistemas de registro por las agencias federales.
+ 
+ 
+> Ley de Libertad de Información (FOIA)
+
+La FOIA permite el acceso público a los registros del gobierno estadounidense. La FOIA lleva aparejada la presunción de divulgación, por lo que la carga recae en el gobierno 
+acerca de por qué no puede hacer pública la información.
+
+Hay nueve exenciones de divulgación relacionadas con la FOIA:
+
+Información de políticas externas y seguridad nacional.
+Prácticas y reglas para el personal interno de una agencia.
+Información específicamente exenta por estatuto.
+Información empresarial confidencial.
+Comunicación interinstitucional o intrainstitucional sujeta a procesos deliberativos, litigaciones y otros privilegios.
+Información que, si se divulga, constituirá una clara invasión infundada a la privacidad personal.
+Registros de aplicación de las leyes que implican uno de varios problemas enumerados.
+Información de agencias de instituciones financieras.
+Información geológica y geofísica relacionada con los pozos.
+
+> Ley de Privacidad y Registros de Educación Familiar (FERPA)
+
+Esta ley federal concedió acceso a los estudiantes a los registros educativos. La FERPA es opcional, dado que el estudiante debe aprobar la divulgación de la información antes 
+de que suceda.
+
+
+> Ley de Abuso y Fraude Informático (CFAA) de los Estados Unidos
+
+Esta ley federal se aplica a la recopilación en línea de información personal por parte de personas o entidades bajo la jurisdicción estadounidense para niños menores de 13 años. 
+
+
+> Ley de Protección de la Privacidad Infantil en Línea (COPPA) de los Estados Unidos
+
+Esta ley federal se aplica a la recopilación en línea de información personal por parte de personas o entidades bajo la jurisdicción estadounidense para niños menores de 13 años. 
+
+
+> Ley de Protección Infantil en Internet (CIPA) de los Estados Unidos
+
+El Congreso de los Estados Unidos aprobó la CIPA en el año 2000 para proteger a los niños menores de 17 años de la exposición a contenidos ofensivos y material obsceno de Internet.
+
+> Ley de Protección de Privacidad de Videos (VPPA)
+
+La Ley de Protección de Privacidad de Videos protege a las personas que rentan cintas de video, DVD y juegos de la divulgación a terceros. 
+
+> Ley de Portabilidad y Responsabilidad del Seguro Médico
+
+Los estándares exigen protecciones de seguridad para el almacenamiento físico, el mantenimiento, la transmisión y el acceso de la información médica de las personas. 
+
+La HIPAA exige que las organizaciones que utilizan firmas electrónicas cumplan los estándares y garanticen la integridad de la información, la autenticación del firmante y el no repudio.
+
+> Ley del Senado de California de 1386 (SB 1386)
+
+California fue el primer estado en aprobar una ley relacionada con la notificación de la divulgación no autorizada de información de identificación personal.
+
+>Políticas de privacidad
+
+Las políticas son la mejor manera de garantizar el cumplimiento en una organización; Una política de privacidad desempeña un rol importante dentro de una organización, 
+especialmente con la cantidad de leyes decretadas para proteger la privacidad. 
+
+
+>>> Evaluación del impacto en la privacidad (PIA)<<<
+
+La evaluación del impacto en la privacidad garantiza que la información de identificación personal (PII) esté correctamente administrada dentro de una organización.
+
+Establezca el alcance de la PIA.
+Identifique las partes interesadas clave.
+Documente todos los contactos con la PII.
+Revise los requisitos legales y normativos.
+Documente los posibles problemas causados al comparar requisitos y prácticas.
+Revise los resultados con las partes interesadas clave
+
+>>> Leyes internacionales <<<
+
+Con el crecimiento de las conexiones de red global e Internet, el acceso no autorizado a un sistema informático o la violación de una computadora son preocupaciones 
+que pueden tener consecuencias nacionales e internacionales.
+
+Convención sobre Delito Cibernético
+
+La Convención sobre Delito Cibernético es el primer tratado internacional sobre delitos de Internet (UE, Estados Unidos, Canadá, Japón y otros). 
+Las políticas comunes manejan el delito cibernético y abordan lo siguiente: infracción de derechos de autor, fraude relacionado con la computación, pornografía infantil
+ e infracciones a la seguridad de la red. Haga clic aquí para leer más sobre la Convención sobre Delito Cibernético.
+ 
+Centro de Información sobre la Privacidad Electrónica (EPIC)
+
+El EPIC promueve políticas y leyes gubernamentales abiertas y de privacidad globalmente, pero se centra en las relaciones entre la UE y los Estados Unidos. 
+
+Ver enlace de referencia> https://epic.org/privacy/intl/
+
+>>>> Base de datos nacional de vulnerabilidades<<<<
+
+La base de datos nacional de vulnerabilidades (NVD) es un repositorio de datos de administración de vulnerabilidades basadas en estándares del gobierno estadounidense 
+que utiliza el protocolo de automatización de contenido de seguridad (SCAP).
+
+El SCAP es un método para utilizar estándares específicos para automatizar la administración de vulnerabilidades, la medición y la evaluación del cumplimiento de políticas.
+
+Lista de vulnerabilidades> https://nvd.nist.gov/vuln/full-listing
+
+Enlace de referencia> https://csrc.nist.gov/projects/security-content-automation-protocol/
+
+
+La NVD utiliza el sistema de calificación de vulnerabilidades comunes para evaluar el impacto de las vulnerabilidades. Una organización puede usar las puntuaciones para 
+clasificar la gravedad de las vulnerabilidades que encuentra dentro de la red.
+
+National Checklist Program Repository
+
+The National Checklist Program (NCP), defined by the NIST SP 800-70, is the U.S. government repository of publicly available security checklists (or benchmarks) that provide
+ detailed low level guidance on setting the security configuration of operating systems and applications.
+ 
+ Enlace de referencia > https://nvd.nist.gov/ncp/repository?typeId=2&startIndex=0
+ 
+>>>CERT<<<
+
+El Instituto de Ingeniería de Software (SEI) de la Universidad Carnegie Mellon ayuda al gobierno y las organizaciones del sector a desarrollar, operar y mantener sistemas de software innovadores, asequibles y confiables. 
+
+El CERT ofrece los siguientes servicios:
+
+Ayuda a resolver las vulnerabilidades del software.
+Desarrolla herramientas, productos y métodos para realizar exámenes de informática forense.
+Desarrolla herramientas, productos y métodos para analizar vulnerabilidades.
+Desarrolla herramientas, productos y métodos para supervisar grandes redes.
+Ayuda a las organizaciones a determinar cuán eficaces son las prácticas relacionadas con la seguridad.
+
+>> https://www.sei.cmu.edu/about/divisions/cert/index.cfm
+
+
+>> Internet Storm Center <<
+
+Internet Storm Center (ISC) proporciona un servicio de análisis y alerta gratuito a las organizaciones y los usuarios de Internet. 
+
+El sitio web ofrece los siguientes recursos:
+
+Un archivo de blog diario de seguridad informática.
+Podcasts, como Daily Stormcasts; Actualizaciones diarias de amenazas a la seguridad informática que duran entre 5 y 10 minutos.
+Publicaciones de empleos de seguridad informática.
+Noticias sobre seguridad informática.
+Herramientas de seguridad informática.
+Informes de seguridad informática.
+Foros de seguridad informática para el ISC del SANS.
+
+> https://isc.sans.edu/
+
+>>Centro de Ciberseguridad Avanzada<<
+
+El Centro de Ciberseguridad Avanzada (ACSC) es una organización sin fines de lucro que reúne a la industria, los círculos académicos y el gobierno para abordar las ciberamenazas
+ avanzadas. 
+ 
+ El ACSC definió cuatro desafíos que definen sus prioridades:
+
+Desarrollar sistemas sólidos para recuperarse de ataques y fallas.
+Mejorar la seguridad móvil.
+Elaborar intercambios de amenazas en tiempo real.
+Integrar los riesgos cibernéticos con los marcos de trabajo de riesgo empresariales.
+
+
+> https://www.acscenter.org/
+
+
+>>>> Escáneres de vulnerabilidades<<<
+
+Un escáner de vulnerabilidades evalúa las computadoras, los sistemas informáticos, las redes o las aplicaciones en busca de debilidades. Los escáneres de vulnerabilidades
+ ayudan a automatizar la auditoría de seguridad escaneando la red en busca de riesgos de seguridad y produciendo una lista prioritaria para abordar las debilidades. 
+ Un escáner de vulnerabilidades busca los siguientes tipos de vulnerabilidades:
+
+Uso de contraseñas predeterminadas o contraseñas comunes.
+Parches faltantes.
+Puertos abiertos.
+Errores de configuración del software y los sistemas operativos.
+Direcciones IP activas.
+Al momento de evaluar un escáner de vulnerabilidades, observe cómo se clasifica su precisión, confiabilidad, escalabilidad e informes. Existen dos tipos de escáneres de
+ vulnerabilidades entre los que puede elegir: Basados en software o basados en la nube.
+
+El análisis de vulnerabilidades es fundamental para las organizaciones con redes que incluyen una gran cantidad de segmentos de red, routers, firewalls, servidores y 
+otros dispositivos empresariales.
+
+Ejemplos de analizadores de vulnerabilidades> https://sectools.org/tag/vuln-scanners/
+
+>>> Pruebas de penetración<<<
+La prueba de penetración (evaluación de intrusión) es un método para probar las áreas de debilidades en los sistemas mediante diversas técnicas maliciosas. 
+La evaluación de intrusión no es lo mismo que la prueba de vulnerabilidades. La prueba de vulnerabilidades identifica los posibles problemas. 
+La evaluación de intrusión involucra a un especialista en ciberseguridad que hackea un sitio web, una red o un servidor con el permiso de la organización para intentar
+obtener acceso a recursos sabiendo los nombres de usuario y las contraseñas o por otros medios normales. La diferencia más importante entre los ciberdelincuentes y los 
+especialistas en ciberseguridad es que los especialistas en ciberseguridad tienen el permiso de la organización para realizar estas pruebas.
+
+Uno de los motivos principales por los que una organización utiliza las evaluaciones de intrusión es la búsqueda y la corrección de las vulnerabilidades antes de que lo 
+hagan los ciberdelincuentes. La prueba de penetración también se conoce como hackeo ético.
+
+
+
+
+
+
+
+
+
+
+
+
+
