@@ -11,7 +11,7 @@
 
 Hardening: https://benchmarks.cisecurity.org/
 https://learn.cisecurity.org/cis-benchmark-downloads?hsCtaTracking=41ef8b02-d0e5-4acb-b542-67c919c7098e%7C500cec43-3dc4-4f4e-8680-465ba237fae1&eid=35678746&utm_campaign=Benchmarks&utm_medium=email&ic=false&_hsenc=p2ANqtz-_7ZKcWvSZz7oVoYRcrbW96-bwRgXNgIb-sS0YD5gQ_XzVjFQhWBPixR3bnBLZ4P3kODCR1lsuK1pZOd7LHdCxWIbnkVQ&_hsmi=35678746&utm_content=35678746&utm_source=hs_automation
-**Nota: Exite correo de CIS en juan.romero@dnp.com.ni
+**Nota: Exite correo de CIS en correo empresa.
 
 https://benchmarks.cisecurity.org/downloads/show-single/?file=rat.unix.253
 
